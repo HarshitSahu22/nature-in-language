@@ -1,0 +1,6 @@
+ParlaMint-DK_20211111140557	The meeting is open. I would ask Members to take their seats again.
+ParlaMint-DK_20211111140612	The item listed as No. 1 on the agenda, can only be dealt with in this sitting with the agreement of the House. The vote will therefore be taken on paragraph 1 of the agenda and, as you know, a three-quarters majority will be required in order to give such consent.
+ParlaMint-DK_20211111140626	A vote can be taken. The vote will end. In favour, 91 (S, V, DF, SF, RV, EL, KF, LA, FG and ALT) voted against 2 (NB), abstained 0. The consent is granted.
+ParlaMint-DK_20211111140702	Amendments have been tabled. I should like to ask if anyone wishes to speak. As this is not the case, the debate is closed and we shall proceed to the vote.
+ParlaMint-DK_20211111140733	If we want to vote on Amendment No 1, we will vote on Amendment No 3. 1 member of the Committee, with the exception of new citizens? It's agreed. I propose that the draft law should go directly to the third reading without referral back to committee and, if no one objects, I consider this to be adopted. It's agreed.
+ParlaMint-DK_20211111140804	There is no more to be done in this sitting, but we will have to vote again in a moment. The next sitting will take place today in 15 minutes, starting with the vote and the third reading of L 61. Then we proceed with the first readings.
