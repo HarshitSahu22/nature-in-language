@@ -1,0 +1,24 @@
+ParlaMint-NO_2001-10-09-lower.ana.ud914e27	If no one has anything to object to, I will follow the call.
+ParlaMint-NO_2001-10-09-lower.ana.ud914e39	The President will then ask that the secretary of the previous no part, Anita Apelthun Seele, temporarily act as a secretary.
+ParlaMint-NO_2001-10-09-lower.ana.ud914e47	Odelstingen will choose presidents and secretaries. In accordance with normal practice, the President and Vice-President shall be chosen by written voting. We follow the fifth and sixth paragraphs of Section 4 of the Rules of Procedure, which were referred to during the Constitution of Storting. The President will ask for proposals to the President of Odelling.
+ParlaMint-NO_2001-10-09-lower.ana.ud914e55	I have the pleasure of proposing Ågot Valle.
+ParlaMint-NO_2001-10-09-lower.ana.ud914e63	Mr Ågot Valle has been elected President of Odelstinget. Other suggestions are not taken before. It's going to be a written vote. The option had the following result: The President was elected Ågot Valle with 117 voices. 6 voice sets were blank.
+ParlaMint-NO_2001-10-09-lower.ana.ud914e76	The President is asking for a proposal to the Vice President of the Odelstinget.
+ParlaMint-NO_2001-10-09-lower.ana.ud914e83	I'm glad to suggest Berit Brørby.
+ParlaMint-NO_2001-10-09-lower.ana.ud914e90	Berit Brørby has been proposed to the Vice-President of Odelsting. Other suggestions are not taken before. It's going to be a written vote. The option had the following result: The Vice-President was elected Berit Brørby with 120 voices. 3 voice sets were blank.
+ParlaMint-NO_2001-10-09-lower.ana.ud914e103	It shall then be elected Secretary. The President is asking for suggestions.
+ParlaMint-NO_2001-10-09-lower.ana.ud914e109	I allow myself to propose Sigvald Uppøen Hansen.
+ParlaMint-NO_2001-10-09-lower.ana.ud914e117	Sigvald Uppebøen Hansen has been proposed as Odelstinget's secretary. Other suggestions are not taken before. It's getting wet in the usual way.
+ParlaMint-NO_2001-10-09-lower.ana.ud914e125	You have to select the display secretary now. The President is asking for suggestions.
+ParlaMint-NO_2001-10-09-lower.ana.ud914e131	I allow myself to propose Finn Martin Vallersnes.
+ParlaMint-NO_2001-10-09-lower.ana.ud914e139	Finn Martin Vallersnes has been proposed as Mr Odelstinget's Secretary of State. Other suggestions are not taken before. It's getting wet in the usual way.
+ParlaMint-NO_2001-10-09-lower.ana.ud914e147	Then Odelstinget came to the choice of the first and second vice president. The President is asking for proposals for the first Vice-President.
+ParlaMint-NO_2001-10-09-lower.ana.ud914e154	I have the pleasure of proposing Geir-Ketil Hansen.
+ParlaMint-NO_2001-10-09-lower.ana.ud914e162	Geir-Ketil Hansen has been proposed as the first Vice-President. Other suggestions are not taken before. It's getting wet in the usual way.
+ParlaMint-NO_2001-10-09-lower.ana.ud914e170	The President is asking for proposals to the other Vice-President.
+ParlaMint-NO_2001-10-09-lower.ana.ud914e176	I allow myself to propose Asmund Kristoffersen.
+ParlaMint-NO_2001-10-09-lower.ana.ud914e184	Asmund Kristoffersen has been proposed as other Vice-President. Other suggestions are not taken before. It's getting wet in the usual way.
+ParlaMint-NO_2001-10-09-lower.ana.ud914e192	Finally, the Odelstingen should select the Secretary of State. The President is asking for suggestions.
+ParlaMint-NO_2001-10-09-lower.ana.ud914e198	I allow myself to propose Ursula Evje.
+ParlaMint-NO_2001-10-09-lower.ana.ud914e206	Usula Evje has been proposed as Secretary of State. Other suggestions are not taken before. It's getting wet in the usual way.
+ParlaMint-NO_2001-10-09-lower.ana.ud914e215	With this, Odelstinget has established itself, and this will be sent to Stortinget and Lagtinget.

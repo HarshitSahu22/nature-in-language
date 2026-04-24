@@ -1,0 +1,9 @@
+ParlaMint-NO_2009-05-14-lower.ana.ud1743e30	There's reason to assume that there's going to be a very short debate, so it might be a good idea to stay in the hall.
+ParlaMint-NO_2009-05-14-lower.ana.ud1743e44	No one has asked for the floor. [[Votation, see below]]
+ParlaMint-NO_2009-05-14-lower.ana.ud1743e60	No one has asked for the floor. [[Votation, see below]]
+ParlaMint-NO_2009-05-14-lower.ana.ud1743e68	The odelsting shall then vote in case No. 1 and 2.
+ParlaMint-NO_2009-05-14-lower.ana.ud1743e141	It is voted over the title of the law and the law as a whole.
+ParlaMint-NO_2009-05-14-lower.ana.ud1743e150	The Law Decision will be sent to the Lamentation.
+ParlaMint-NO_2009-05-14-lower.ana.ud1743e198	It is voted over the title of the law and the law as a whole.
+ParlaMint-NO_2009-05-14-lower.ana.ud1743e207	The Law Decision will be sent to the Lamentation.
+ParlaMint-NO_2009-05-14-lower.ana.ud1743e219	There is no record. Thus, today's map has been processed. Does anyone require a word before the meeting is cancelled? - The meeting's been cancelled.

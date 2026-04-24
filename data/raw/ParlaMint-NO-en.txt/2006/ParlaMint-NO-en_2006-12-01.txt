@@ -1,0 +1,3 @@
+ParlaMint-NO_2006-12-01.ana.ud2588e26	The President is delighted to welcome the President of the Swedish Parliament, Per Westerberg. It is a great honour for us that he has come to visit us so quickly after he took up his position. We hope he gets a good visit to Norway. Welcome! The assembly applauded.
+ParlaMint-NO_2006-12-01.ana.ud2588e42	No one has asked for the floor. [[Votation, see below]]
+ParlaMint-NO_2006-12-01.ana.ud2588e100	There is no record.

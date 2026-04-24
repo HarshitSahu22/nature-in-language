@@ -1,0 +1,3 @@
+ParlaMint-NO_2001-01-18-lower.ana.ud2451e24	The representative, Karin Andersen, will present a private bill.
+ParlaMint-NO_2001-01-18-lower.ana.ud2451e27	On behalf of the representative of Magnhild Meltveit Kleppa and myself, I would like to propose amendments to the Law of 25 September 1992 No. 107 on municipalities and counties.
+ParlaMint-NO_2001-01-18-lower.ana.ud2451e32	The legislative proposal will be dealt with in accordance with the rules of procedure.

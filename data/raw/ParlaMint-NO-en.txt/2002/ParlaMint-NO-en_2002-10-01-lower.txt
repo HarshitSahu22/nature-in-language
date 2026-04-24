@@ -1,0 +1,24 @@
+ParlaMint-NO_2002-10-01-lower.ana.ud187e27	If no one has anything to object to, I will comply with the request.
+ParlaMint-NO_2002-10-01-lower.ana.ud187e39	The President-in-Office will ask the secretary of the last odelsting, Sigvald Uppøen Hansen, to act temporarily as a secretary.
+ParlaMint-NO_2002-10-01-lower.ana.ud187e47	Odelstinget will now make the election of presidents and secretaries. We follow the fifth and sixth paragraphs of Section 4 of the Rules of Procedure, which were referred to during the Constitution of Storting. The President-in-Office of the Council is asking for proposals to the President of Odelstinget.
+ParlaMint-NO_2002-10-01-lower.ana.ud187e57	I have the pleasure of proposing Ågot Valle.
+ParlaMint-NO_2002-10-01-lower.ana.ud187e65	Ågot Valle has been proposed as President of Odelstinget. Other proposals are not available. It's going to be grazed in the usual way.
+ParlaMint-NO_2002-10-01-lower.ana.ud187e75	The President is asking for a proposal from the Vice-President of the Odelstinget.
+ParlaMint-NO_2002-10-01-lower.ana.ud187e81	I have the pleasure of proposing Berit Brørby.
+ParlaMint-NO_2002-10-01-lower.ana.ud187e89	Berit Brørby is proposed as Odelsting's vice president. Other proposals are not available. It's going to be grazed in the usual way.
+ParlaMint-NO_2002-10-01-lower.ana.ud187e98	The Secretary shall then be chosen. The President is asking for proposals.
+ParlaMint-NO_2002-10-01-lower.ana.ud187e104	I have the great honour to propose Sigvald Uppøen Hansen.
+ParlaMint-NO_2002-10-01-lower.ana.ud187e112	Sigvald Uppebøen Hansen is proposed as Odelstinget's secretary. Other proposals are not available. It's going to be grazed in the usual way.
+ParlaMint-NO_2002-10-01-lower.ana.ud187e121	The Secretary shall then be chosen. The President is asking for proposals.
+ParlaMint-NO_2002-10-01-lower.ana.ud187e127	I suggest Finn Martin Vallersnes.
+ParlaMint-NO_2002-10-01-lower.ana.ud187e135	Finn Martin Vallersnes is proposed as Mr Odelstinget's Secretary of State. Other proposals are not available. It's going to be grazed in the usual way.
+ParlaMint-NO_2002-10-01-lower.ana.ud187e145	The first and second vice-presidents shall then be elected. The President is asking for proposals for the first Vice-President.
+ParlaMint-NO_2002-10-01-lower.ana.ud187e151	I have the pleasure of proposing Geir-Ketil Hansen.
+ParlaMint-NO_2002-10-01-lower.ana.ud187e159	Mr. Geir-Ketil Hansen is the first Vice President. Other proposals are not available. It's going to be grazed in the usual way.
+ParlaMint-NO_2002-10-01-lower.ana.ud187e168	The President is asking for proposals to the second vice-president.
+ParlaMint-NO_2002-10-01-lower.ana.ud187e173	I have the honour to propose Asmund Kristoffersen.
+ParlaMint-NO_2002-10-01-lower.ana.ud187e181	Asmund Kristoffersen is proposed as the second vice-president. Other proposals are not available. It's going to be grazed in the usual way.
+ParlaMint-NO_2002-10-01-lower.ana.ud187e190	Finally, the Odel Sting shall elect the Secretary of State. The President is asking for proposals.
+ParlaMint-NO_2002-10-01-lower.ana.ud187e196	I have the great joy and honour to propose Ursula Evje.
+ParlaMint-NO_2002-10-01-lower.ana.ud187e205	Ursula Evje is proposed as Secretary of State. Other proposals are not available. It's going to be grazed in the usual way.
+ParlaMint-NO_2002-10-01-lower.ana.ud187e214	Thus Odelstinget has established itself, and this will be sent to Stortinget and Lagtinget.

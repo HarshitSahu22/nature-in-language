@@ -1,0 +1,4 @@
+ParlaMint-NO_2008-11-14-lower.ana.ud1031e31	The President is asking for a proposal from the temporary Vice-President of the Odelstinget.
+ParlaMint-NO_2008-11-14-lower.ana.ud1031e34	I have the honour to propose Ågot Valle.
+ParlaMint-NO_2008-11-14-lower.ana.ud1031e39	Ågot Valle has been proposed as the temporary vice president of the Odelstinget. - There are no other suggestions.
+ParlaMint-NO_2008-11-14-lower.ana.ud1031e58	There is no record available. Thus, today's map has been processed. Does anyone ask for a word before the meeting is cancelled? - The meeting has been cancelled.

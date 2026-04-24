@@ -1,0 +1,21 @@
+ParlaMint-IT_2015-10-20-LEG17-Senato-sed-525.ana.u1	The sitting was opened at 11:01 a.m. The Minutes shall be read. Mr Amati, secretary, read the Minutes of the sitting of 14 October.
+ParlaMint-IT_2015-10-20-LEG17-Senato-sed-525.ana.u2	I'm asking to talk.
+ParlaMint-IT_2015-10-20-LEG17-Senato-sed-525.ana.u3	You have the right to do so.
+ParlaMint-IT_2015-10-20-LEG17-Senato-sed-525.ana.u4	DIVINE (LN-Aut). Mr President, I would like to ask for the vote on the Minutes, subject to a quorum check.
+ParlaMint-IT_2015-10-20-LEG17-Senato-sed-525.ana.u5	I invite the Senator Secretary to check whether the request is supported by the prescribed number of senators, by electronic procedure. (The request is supported). I therefore call on the senators to make their presence known by electronic means. (Follows the quorum check.) The Senate is not a quorum. I therefore suspend the sitting for 20 minutes. (The sitting was suspended at 11.10 a.m. and resumed at 11.31 a.m.)
+ParlaMint-IT_2015-10-20-LEG17-Senato-sed-525.ana.u6	Let's resume our work.
+ParlaMint-IT_2015-10-20-LEG17-Senato-sed-525.ana.u7	I'm asking to talk.
+ParlaMint-IT_2015-10-20-LEG17-Senato-sed-525.ana.u8	You have the right to do so.
+ParlaMint-IT_2015-10-20-LEG17-Senato-sed-525.ana.u9	GAETTI (M5S). Mr President, we are asking for the vote on the Minutes, subject to a quorum check.
+ParlaMint-IT_2015-10-20-LEG17-Senato-sed-525.ana.u10	I invite the Senator Secretary to check whether the request is supported by the prescribed number of senators, by electronic procedure. (The request is supported). I therefore call on the senators to make their presence known by electronic means. (Follows the quorum check.) The Senate is not a quorum. I therefore suspend the sitting. (The sitting was suspended at 11.32 a.m. and resumed at 11.52 a.m.)
+ParlaMint-IT_2015-10-20-LEG17-Senato-sed-525.ana.u11	Let us resume our work again.
+ParlaMint-IT_2015-10-20-LEG17-Senato-sed-525.ana.u12	I'm asking to talk.
+ParlaMint-IT_2015-10-20-LEG17-Senato-sed-525.ana.u13	You have the right to do so.
+ParlaMint-IT_2015-10-20-LEG17-Senato-sed-525.ana.u14	GAETTI (M5S). Mr President, we are again asking for the vote on the Minutes, subject to a quorum check.
+ParlaMint-IT_2015-10-20-LEG17-Senato-sed-525.ana.u15	I invite the Senator Secretary to check whether the request is supported by the prescribed number of senators, by electronic procedure. (The request is supported). I therefore call on the senators to make their presence known by electronic means. (Follows the quorum check.) The Senate is not a quorum. The number of people present has been reduced again, compared with the previous vote. In honor of those who got up early, we also make the fourth attempt, to make sense of our morning. I therefore suspend the sitting for 20 minutes. (The sitting was suspended at 11.53 a.m. and resumed at 12.13 p.m.)
+ParlaMint-IT_2015-10-20-LEG17-Senato-sed-525.ana.u16	Colleagues, let's resume our work.
+ParlaMint-IT_2015-10-20-LEG17-Senato-sed-525.ana.u17	I'm asking to talk.
+ParlaMint-IT_2015-10-20-LEG17-Senato-sed-525.ana.u18	You have the right to do so.
+ParlaMint-IT_2015-10-20-LEG17-Senato-sed-525.ana.u19	GAETTI (M5S). Mr President, we are again asking for the vote on the Minutes, subject to a quorum check.
+ParlaMint-IT_2015-10-20-LEG17-Senato-sed-525.ana.u20	I invite the Senator Secretary to check whether the request is supported by the prescribed number of senators, by electronic procedure. (The request is supported). I therefore call on the senators to make their presence known by electronic means. (Follows the quorum check.) The Senate is not a quorum. Since the quorum was not present for the fourth time in a row, pursuant to Rule 108 (4) of the Rules of Procedure, I shall remove the sitting.
+ParlaMint-IT_2015-10-20-LEG17-Senato-sed-525.ana.u21	The motions, questions and questions received by the Presidency will be published in Annex B to today's report. I remember that the Senate will return to meet in public today, at 4.30 p.m., with the agenda already printed and distributed. The sitting was closed at 12.14 a.m.

@@ -1,0 +1,3 @@
+ParlaMint-NO_1999-10-19-upper.ana.ud1053e68	The President requests a proposal from the temporary Vice-President under the leave of Vice-President Svein Ludvigsen.
+ParlaMint-NO_1999-10-19-upper.ana.ud1053e71	I suggest Siri Frost Sterri.
+ParlaMint-NO_1999-10-19-upper.ana.ud1053e79	Siri Frost Sterri has been proposed as a temporary vice president. Other proposals are not available, and Siri Frost Sterri is unanimously elected as temporary vice-president under the leave of Vice-President Svein Ludvigsen.

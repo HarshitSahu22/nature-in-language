@@ -1,0 +1,24 @@
+ParlaMint-NO_2002-10-01-upper.ana.ud210e21	If no one has anything against it, I accept the summons.
+ParlaMint-NO_2002-10-01-upper.ana.ud210e33	The President-in-Office of the Council will ask the secretary of the previous legation, Mr. Ingvild Vaggen Malvik, to act temporarily as a secretary.
+ParlaMint-NO_2002-10-01-upper.ana.ud210e53	It must first be elected President and Vice President. In the case of the election of the President and Vice-President, Section 4 of the Fifth and Sixth paragraphs of the Rules of Procedure, as referred to in the Constitution of the Stortinge, shall apply. The President-in-Office of the Council is asking for proposals to the President of the Law Department.
+ParlaMint-NO_2002-10-01-upper.ana.ud210e63	I suggest Lodve Solholm.
+ParlaMint-NO_2002-10-01-upper.ana.ud210e70	Lodve Solholm has been proposed to the President of Lagtinget. Other suggestions are not taken before. It's getting wet in the usual way.
+ParlaMint-NO_2002-10-01-upper.ana.ud210e79	The President then asks for proposals to the Vice President of the Lamentations.
+ParlaMint-NO_2002-10-01-upper.ana.ud210e84	I have the pleasure of proposing Odd Holten.
+ParlaMint-NO_2002-10-01-upper.ana.ud210e91	Odd Holten has been proposed as Lamentations Vice President. Other suggestions are not taken before. It's getting wet in the usual way.
+ParlaMint-NO_2002-10-01-upper.ana.ud210e101	The Secretary of the Lamentations Committee shall then be elected, and the President shall ask for proposals.
+ParlaMint-NO_2002-10-01-upper.ana.ud210e107	I suggest Ingvild Vaggen Malvik.
+ParlaMint-NO_2002-10-01-upper.ana.ud210e115	Mr. Ingvild Vaggen Malvik is proposed as Secretary of the Lamentations. Other suggestions are not taken before. It's getting wet in the usual way.
+ParlaMint-NO_2002-10-01-upper.ana.ud210e124	The Secretary of State shall then be elected, and the President shall ask for proposals.
+ParlaMint-NO_2002-10-01-upper.ana.ud210e130	I suggest Dagrun Eriksen.
+ParlaMint-NO_2002-10-01-upper.ana.ud210e138	Dagrun Eriksen has been proposed as Secretary of State. Other suggestions are not taken before. It's getting wet in the usual way.
+ParlaMint-NO_2002-10-01-upper.ana.ud210e147	The layering has now come to the choice of the first and second vice-president. The President is asking for proposals for the first Vice-President.
+ParlaMint-NO_2002-10-01-upper.ana.ud210e152	I propose Thore A. Nistad.
+ParlaMint-NO_2002-10-01-upper.ana.ud210e160	Mr. Thore A. Nistad is proposed as the first Vice President. Other suggestions are not taken before. It's getting wet in the usual way.
+ParlaMint-NO_2002-10-01-upper.ana.ud210e170	The President is asking for proposals to the other Vice-President.
+ParlaMint-NO_2002-10-01-upper.ana.ud210e176	I suggest Elsa Scarbøvik.
+ParlaMint-NO_2002-10-01-upper.ana.ud210e184	Elsa Scarbøvik is proposed as other vice-president. Other suggestions are not taken before. It's getting wet in the usual way.
+ParlaMint-NO_2002-10-01-upper.ana.ud210e193	Finally, the legislation should select the Secretary of State. The President is asking for suggestions.
+ParlaMint-NO_2002-10-01-upper.ana.ud210e199	I suggest Åslaug Haga.
+ParlaMint-NO_2002-10-01-upper.ana.ud210e206	Åslaug Haga is proposed as Deputy Secretary. Other suggestions are not taken before. It's getting wet in the usual way.
+ParlaMint-NO_2002-10-01-upper.ana.ud210e215	The Creation has thus established itself, and a message will be sent to Stortinget and Odelstinget about this.

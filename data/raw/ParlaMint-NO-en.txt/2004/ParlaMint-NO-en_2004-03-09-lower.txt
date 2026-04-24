@@ -1,0 +1,3 @@
+ParlaMint-NO_2004-03-09-lower.ana.ud1967e20	The representative of John I. Alvheim will make a private bill.
+ParlaMint-NO_2004-03-09-lower.ana.ud1967e23	On behalf of the representative Harald T. Nesvik and myself, I propose to amend the Law of 5 December 2003 No. 100 on the human medical use of biotechnology, etc., the Biotechnology Act.
+ParlaMint-NO_2004-03-09-lower.ana.ud1967e28	The legislative proposal will be dealt with in a regulatory manner.

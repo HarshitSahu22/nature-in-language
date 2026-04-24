@@ -1,0 +1,4 @@
+ParlaMint-NO_2002-12-12-lower.ana.ud113e33	The President is asking for proposals on the President-in-Office of the Odel Sting tomorrow.
+ParlaMint-NO_2002-12-12-lower.ana.ud113e36	I'd like to suggest Heidi Grande Røys.
+ParlaMint-NO_2002-12-12-lower.ana.ud113e41	Heidi Grande Røys has been proposed as president. – Other proposals are not available, and Heidi Grande Røys is unanimously elected president of Odelstinget’s meeting tomorrow.
+ParlaMint-NO_2002-12-12-lower.ana.ud113e50	There is no record.

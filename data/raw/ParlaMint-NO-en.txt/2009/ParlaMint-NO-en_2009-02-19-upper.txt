@@ -1,0 +1,4 @@
+ParlaMint-NO_2009-02-19-upper.ana.ud465e68	No one has asked for the floor. The decision of the Odelsting is therefore endorsed by the Laging. The bill will be sent to the King in accordance with the Constitution.
+ParlaMint-NO_2009-02-19-upper.ana.ud465e84	No one has asked for the floor. The decision of the odelsting is therefore supported by the laying. The bill will be sent to the King in accordance with the Constitution.
+ParlaMint-NO_2009-02-19-upper.ana.ud465e100	No one has asked for the floor. The decision of the Odelsting is therefore endorsed by the Laging. The bill will be sent to the King in accordance with the Constitution.
+ParlaMint-NO_2009-02-19-upper.ana.ud465e116	No one has asked for the floor. The decision of the Odelsting is therefore endorsed by the Laging. The bill will be sent to the King in accordance with the Constitution. Does anyone ask for the word before the meeting is cancelled? - The meeting's been cancelled.

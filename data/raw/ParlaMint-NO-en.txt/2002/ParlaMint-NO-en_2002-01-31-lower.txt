@@ -1,0 +1,7 @@
+ParlaMint-NO_2002-01-31-lower.ana.ud1449e32	I then ask for proposals from the President-in-Office.
+ParlaMint-NO_2002-01-31-lower.ana.ud1449e37	I allow myself to propose Oddbjørg Ausdal Starrfelt.
+ParlaMint-NO_2002-01-31-lower.ana.ud1449e42	Oddbjørg Ausdal Starrfelt is proposed as president. – Other proposals are not available, and Oddbjørg Ausdal Starrfeld is unanimously elected President of the evening meeting. I dare ask her to take the president's seat.
+ParlaMint-NO_2002-01-31-lower.ana.ud1449e54	Then the President hopes that the emergency response will be effective.
+ParlaMint-NO_2002-01-31-lower.ana.ud1449e73	No one has asked for the floor. [[Votation, see below]]
+ParlaMint-NO_2002-01-31-lower.ana.ud1449e312	The title of the law and the promise are then added to the law.
+ParlaMint-NO_2002-01-31-lower.ana.ud1449e322	The law decision will be sent to the Layer.

@@ -1,0 +1,4 @@
+ParlaMint-NO_2001-10-17-lower.ana.ud1332e19	The representative Steinar Bastisen, who has been licensed, has once again taken his seat. The called alternate of the Finnmark County, Kirsti Saxi, has taken the seat.
+ParlaMint-NO_2001-10-17-lower.ana.ud1332e35	The representative Heikki Holmås will present a private bill.
+ParlaMint-NO_2001-10-17-lower.ana.ud1332e38	I want to present Document No. 8:1, which is a proposal for a law amending the Law of 4 February 1977 No. 4 on the protection of workers and the working environment. It is important that the Working Environment Act also applies to students and students.
+ParlaMint-NO_2001-10-17-lower.ana.ud1332e43	The proposal will be dealt with in a regulatory manner.

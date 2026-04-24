@@ -1,0 +1,9 @@
+ParlaMint-NO_2005-05-19-lower.ana.ud124e41	The President will propose the election of a President-in-Office of the Odel Sting today – and consider it adopted. The President proposes Sigvald Oppebøen Hansen. – Other proposals are not available, and Sigvald Oppebøen Hansen is unanimously elected President of Odelstinget’s meeting today.
+ParlaMint-NO_2005-05-19-lower.ana.ud124e51	The President will already suggest that it looks as if the meeting of Odelsting will only last half an hour. The President will propose that the meeting continue beyond the regulatory time, at 5 p.m. 15th The hearing that was scheduled for 9 p.m. 3:15 p.m. has been moved to 3:00 p.m. 3:45. – No objections have been raised and the President’s proposal is deemed to have been adopted.
+ParlaMint-NO_2005-05-19-lower.ana.ud124e74	No one has asked for the floor. [[Votation, see below]]
+ParlaMint-NO_2005-05-19-lower.ana.ud124e90	No one has asked for the floor. [[See page 582]]
+ParlaMint-NO_2005-05-19-lower.ana.ud124e98	Odelstinget is ready to go to voting.
+ParlaMint-NO_2005-05-19-lower.ana.ud124e968	It is voted over the titles of the laws and the laws in their entirety.
+ParlaMint-NO_2005-05-19-lower.ana.ud124e978	Law decisions will be sent to Lamentation.
+ParlaMint-NO_2005-05-19-lower.ana.ud124e1024	It is voted over the title of the law and the law as a whole.
+ParlaMint-NO_2005-05-19-lower.ana.ud124e1034	The Law Decision will be sent to the Lamentation.

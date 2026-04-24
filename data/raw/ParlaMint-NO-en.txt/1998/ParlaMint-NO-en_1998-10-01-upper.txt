@@ -1,0 +1,24 @@
+ParlaMint-NO_1998-10-01-upper.ana.ud1537e27	If no one has anything to object to, I will comply with the request.
+ParlaMint-NO_1998-10-01-upper.ana.ud1537e39	The President-in-Office of the Council will ask the Secretary of the previous team, Per Ove Width, to act as a secretary on a temporary basis. There is a record.
+ParlaMint-NO_1998-10-01-upper.ana.ud1537e60	The President and Vice-President must be elected first. As regards the election of the President and Vice-President, the last paragraph of Section 4 of the Rules of Procedure is as follows: ‘The choice of presidents and secretaries requires a normal majority, i.e. more than half of the votes cast. If none of the candidates reaches such a majority in the first election or in the case of free re-election, the two candidates to whom the highest number of votes has been cast shall be re-elected. [[(see section 4.4). § 45 para. (b)]] The President-in-Office of the Council is asking for proposals from the President of the Court of Justice.
+ParlaMint-NO_1998-10-01-upper.ana.ud1537e73	I suggest Odd Holten.
+ParlaMint-NO_1998-10-01-upper.ana.ud1537e81	Odd Holten has been proposed to the President of the Lamentations. Other proposals are not available. A written vote shall be taken. The choice had the following result: The President was elected Odd Holten by 41 votes.
+ParlaMint-NO_1998-10-01-upper.ana.ud1537e94	The President then asks for proposals to the Vice-President of the Lamentations.
+ParlaMint-NO_1998-10-01-upper.ana.ud1537e102	: I allow myself to propose Svein Ludvigsen.
+ParlaMint-NO_1998-10-01-upper.ana.ud1537e110	: Svein Ludvigsen is proposed as Vice President. No other proposals have been made. Written voting shall be carried out. The choice had the following result: The Vice President was elected Svein Ludvigsen by 41 votes.
+ParlaMint-NO_1998-10-01-upper.ana.ud1537e125	: The Secretary shall then be elected, and the President shall ask for proposals.
+ParlaMint-NO_1998-10-01-upper.ana.ud1537e133	: I am delighted to propose Per Ove Width.
+ParlaMint-NO_1998-10-01-upper.ana.ud1537e141	: Per Ove Width is proposed as Secretary. Other proposals are not available. It's going to be grazed in the usual way.
+ParlaMint-NO_1998-10-01-upper.ana.ud1537e151	: The Secretary of State shall then be elected, and the President shall request a proposal.
+ParlaMint-NO_1998-10-01-upper.ana.ud1537e159	I suggest Anne Helen Rui.
+ParlaMint-NO_1998-10-01-upper.ana.ud1537e166	: Anne Helen Rui is proposed as Secretary of State. Other proposals are not available. It's going to be grazed in the usual way.
+ParlaMint-NO_1998-10-01-upper.ana.ud1537e176	The creation has now come to the choice of the first and second vice-president. The President is asking for proposals for the first Vice-President.
+ParlaMint-NO_1998-10-01-upper.ana.ud1537e181	I suggest Elsa carbøvik.
+ParlaMint-NO_1998-10-01-upper.ana.ud1537e188	Elsa Skarbøvik is proposed as the first vice-president. Other proposals are not available.
+ParlaMint-NO_1998-10-01-upper.ana.ud1537e196	The President is asking for proposals to the second vice-president.
+ParlaMint-NO_1998-10-01-upper.ana.ud1537e203	I propose Siri Frost Sterri as the second Vice President.
+ParlaMint-NO_1998-10-01-upper.ana.ud1537e211	Siri Frost Sterri is proposed as the second vice-president. Other proposals are not available.
+ParlaMint-NO_1998-10-01-upper.ana.ud1537e219	Finally, the Secretary-General shall be elected, and the President shall ask for proposals.
+ParlaMint-NO_1998-10-01-upper.ana.ud1537e225	I would like to propose Einar Olav Skogholt as Secretary of State.
+ParlaMint-NO_1998-10-01-upper.ana.ud1537e233	Einar Olav Skogholt is proposed as Secretary of State. Other proposals are not available.
+ParlaMint-NO_1998-10-01-upper.ana.ud1537e241	The Creation has thus established itself, and a message will be sent to Stortinget and Odelstinget about this.

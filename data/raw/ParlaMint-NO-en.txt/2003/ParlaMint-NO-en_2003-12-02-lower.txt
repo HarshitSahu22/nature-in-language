@@ -1,0 +1,2 @@
+ParlaMint-NO_2003-12-02-lower.ana.ud619e67	No one has asked for the floor. [[Fooding, see page 166]]
+ParlaMint-NO_2003-12-02-lower.ana.ud619e83	No one has asked for the floor. The President sees that the scheduled time for tomorrow's meeting is almost over. [[Fooding, see page 166]] The President then proposes that the meeting be cancelled and that a new meeting be set at 5 p.m. 18th@item: inlistbox – It shall be deemed to have been adopted.

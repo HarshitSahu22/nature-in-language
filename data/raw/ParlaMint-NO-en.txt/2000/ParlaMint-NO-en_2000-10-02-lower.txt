@@ -1,0 +1,24 @@
+ParlaMint-NO_2000-10-02-lower.ana.ud1179e27	If no one has anything to object to, I will comply with the request.
+ParlaMint-NO_2000-10-02-lower.ana.ud1179e39	The President-in-Office will ask the secretary of the last odelsting, Anita Apelthun Seele, to act temporarily as a secretary.
+ParlaMint-NO_2000-10-02-lower.ana.ud1179e47	Odelstinget shall elect Presidents and Secretaries. According to standard practice, the President and Vice-President shall be elected by written voting. We follow the final paragraph of Section 4 of the Rules of Procedure, which was referred to during the Constitution of Storting. The President-in-Office of the Council is asking for proposals to the President of Odelstinget.
+ParlaMint-NO_2000-10-02-lower.ana.ud1179e57	I suggest Gunnar Skaug.
+ParlaMint-NO_2000-10-02-lower.ana.ud1179e65	Gunnar Skaug has been proposed to the President of Odelstinget. Other proposals are not available. Written voting shall be carried out. The choice had the following result: The president was elected Gunnar Schaug by 115 votes. Four ballots were blank.
+ParlaMint-NO_2000-10-02-lower.ana.ud1179e78	The President is asking for a proposal from the Vice-President of the Odelstinget.
+ParlaMint-NO_2000-10-02-lower.ana.ud1179e85	I suggest Jorunn Ringstad.
+ParlaMint-NO_2000-10-02-lower.ana.ud1179e92	Jorunn Ringstad is proposed as Odelstinget's vice president. Other proposals are not available. Written voting shall be carried out. The choice had the following result: The Vice President was elected Jorunn Ringstad by 115 votes. Four ballots were blank.
+ParlaMint-NO_2000-10-02-lower.ana.ud1179e105	The Secretary shall then be chosen. The President is asking for proposals.
+ParlaMint-NO_2000-10-02-lower.ana.ud1179e111	I suggest Anita Apelthun Seele.
+ParlaMint-NO_2000-10-02-lower.ana.ud1179e119	Anita Apelthun Seele is proposed as Odelstinget's secretary. Other proposals are not available. It's going to be grazed in the usual way.
+ParlaMint-NO_2000-10-02-lower.ana.ud1179e127	The Secretary shall then be chosen. The President is asking for proposals.
+ParlaMint-NO_2000-10-02-lower.ana.ud1179e133	I allow myself to propose Olav Gunnar Ballo.
+ParlaMint-NO_2000-10-02-lower.ana.ud1179e141	Olav Gunnar Ballo has been proposed as Mr Odelstinget's Secretary of State. Other proposals are not available. It's going to be grazed in the usual way.
+ParlaMint-NO_2000-10-02-lower.ana.ud1179e149	The first and second vice-presidents shall then be elected. The President is asking for proposals for the first Vice-President.
+ParlaMint-NO_2000-10-02-lower.ana.ud1179e156	I suggest Eirin Fallet.
+ParlaMint-NO_2000-10-02-lower.ana.ud1179e163	Eirin Faldet is proposed as the first Vice-President. Other proposals are not available. It's going to be grazed in the usual way.
+ParlaMint-NO_2000-10-02-lower.ana.ud1179e171	The President is asking for proposals to the second vice-president.
+ParlaMint-NO_2000-10-02-lower.ana.ud1179e177	I suggest Morten Lund.
+ParlaMint-NO_2000-10-02-lower.ana.ud1179e185	Morten Lund is proposed as the second vice-president. Other proposals are not available. It's going to be grazed in the usual way.
+ParlaMint-NO_2000-10-02-lower.ana.ud1179e193	Finally, the Secretary-General shall be elected. The President is asking for proposals.
+ParlaMint-NO_2000-10-02-lower.ana.ud1179e199	I propose Sigvald Oppebøen Hansen.
+ParlaMint-NO_2000-10-02-lower.ana.ud1179e207	Sigvald Oppebøen Hansen is proposed as Secretary of State. Other proposals are not available. It's going to be grazed in the usual way.
+ParlaMint-NO_2000-10-02-lower.ana.ud1179e216	Thus Odelstinget has established itself, and this will be sent to Stortinget and Lagtinget.

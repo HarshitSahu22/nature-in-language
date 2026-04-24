@@ -1,0 +1,21 @@
+ParlaMint-IT_2014-10-07-LEG17-Senato-sed-324.ana.u1	The sitting is open (9.30 a.m.). The Minutes shall be read. Mr Berger, Secretary, read the Minutes of the afternoon sitting on 1 October.
+ParlaMint-IT_2014-10-07-LEG17-Senato-sed-324.ana.u2	I'm asking to talk.
+ParlaMint-IT_2014-10-07-LEG17-Senato-sed-324.ana.u3	You have the right to do so.
+ParlaMint-IT_2014-10-07-LEG17-Senato-sed-324.ana.u4	GAETTI (M5S). Madam President, I would like to ask for the vote on the Minutes, subject to a quorum check.
+ParlaMint-IT_2014-10-07-LEG17-Senato-sed-324.ana.u5	I invite the Senator Secretary to check whether the request is supported by the prescribed number of senators, by electronic procedure. (The request is supported). I therefore call on the senators to make their presence known by electronic means. (Follows the quorum check.) The Senate is not a quorum. I'm gonna suspend the session for 20 minutes. (The sitting was suspended at 9.35 a.m. and resumed at 9.55 a.m.)
+ParlaMint-IT_2014-10-07-LEG17-Senato-sed-324.ana.u6	Let's resume our work.
+ParlaMint-IT_2014-10-07-LEG17-Senato-sed-324.ana.u7	I'm asking to talk.
+ParlaMint-IT_2014-10-07-LEG17-Senato-sed-324.ana.u8	You have the right to do so.
+ParlaMint-IT_2014-10-07-LEG17-Senato-sed-324.ana.u9	GAETTI (M5S). Madam President, we are calling for the vote on the Minutes once the quorum has been checked.
+ParlaMint-IT_2014-10-07-LEG17-Senato-sed-324.ana.u10	I invite the Senator Secretary to check whether the request is supported by the prescribed number of senators, by electronic procedure. (The request is supported). I therefore call on the senators to make their presence known by electronic means. (Follows the quorum check.) The Senate is not a quorum. [[Applause from the LN-Aut Group.]] I'm gonna suspend the session for 20 minutes. (The sitting was suspended at 9.57 a.m. and resumed at 10.17 a.m.)
+ParlaMint-IT_2014-10-07-LEG17-Senato-sed-324.ana.u11	Let us resume our work again.
+ParlaMint-IT_2014-10-07-LEG17-Senato-sed-324.ana.u12	I'm asking to talk.
+ParlaMint-IT_2014-10-07-LEG17-Senato-sed-324.ana.u13	You have the right to do so.
+ParlaMint-IT_2014-10-07-LEG17-Senato-sed-324.ana.u14	SANTANGELO (M5S). Madam President, we are again asking for the vote on the Minutes, subject to a quorum check.
+ParlaMint-IT_2014-10-07-LEG17-Senato-sed-324.ana.u15	I invite the Senator Secretary to check whether the request is supported by the prescribed number of senators, by electronic procedure. (The request is supported). I therefore call on the senators to make their presence known by electronic means. (Follows the quorum check.) The Senate is not a quorum. [[Applause from the LN-Aut Group]] I'm gonna suspend the session again for 20 minutes. (The sitting was suspended at 10.17 a.m. and resumed at 10.37 a.m.)
+ParlaMint-IT_2014-10-07-LEG17-Senato-sed-324.ana.u16	Colleagues, let's resume our work.
+ParlaMint-IT_2014-10-07-LEG17-Senato-sed-324.ana.u17	I'm asking to talk.
+ParlaMint-IT_2014-10-07-LEG17-Senato-sed-324.ana.u18	You have the right to do so.
+ParlaMint-IT_2014-10-07-LEG17-Senato-sed-324.ana.u19	SANTANGELO (M5S). Madam President, we are again asking for the vote on the Minutes, subject to a quorum check.
+ParlaMint-IT_2014-10-07-LEG17-Senato-sed-324.ana.u20	I therefore call on the senators to make their presence known by electronic means. (Follows the quorum check.) The Senate is not a quorum. Since the quorum was not present for the fourth time in a row, pursuant to Rule 108 (4) of the Rules of Procedure, I shall remove the sitting.
+ParlaMint-IT_2014-10-07-LEG17-Senato-sed-324.ana.u21	The motions, questions and questions received by the Presidency will be published in Annex B to today's report. I remember that the Senate will come back to meet in public today, at 4 p.m., on the same agenda. The sitting was closed at 10.38 p.m.

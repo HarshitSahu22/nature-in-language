@@ -1,0 +1,24 @@
+ParlaMint-NO_2001-10-09-upper.ana.ud12e27	If no one has anything to object to, I will comply with the request.
+ParlaMint-NO_2001-10-09-upper.ana.ud12e39	The President-in-Office of the Council will ask the third senior representative, Kristin Krohn Devold, to act as a secretary on a temporary basis.
+ParlaMint-NO_2001-10-09-upper.ana.ud12e61	Lamination is now to make the choice of presidents and secretaries. The President and Vice-President must be elected first. As regards the election of the President and Vice-President, Paragraph 4(5) and (6) of the Rules of Procedure of the Court of Justice follows: ‘In the first election of Presidents and Vice-Presidents, the votes shall be in the case of non-signatured banknotes. In subsequent elections in the same parliamentary term, the rules of § 44, first paragraph, points (d), first and second sentences apply. more than half of the votes cast. If none of the candidates reaches such a majority in the first election or in the case of free re-election, the two candidates to whom the highest number of votes has been cast shall be re-elected. [[(cf. § 45 para. (b)]] The President-in-Office of the Council is asking for proposals from the President of the Court of Justice.
+ParlaMint-NO_2001-10-09-upper.ana.ud12e76	I have the pleasure and honour to propose Lodve Solholm.
+ParlaMint-NO_2001-10-09-upper.ana.ud12e84	Lodve Solholm has been proposed to the President of the Lamentations. Other proposals have not been made. A written vote shall be taken. The choice had the following result: Lodve Solholm was elected President of the Lamentations by 38 votes. For an unsolicited candidate, 1 vote was cast. One ballot was blank.
+ParlaMint-NO_2001-10-09-upper.ana.ud12e97	The President then asks for proposals to the Vice-President of the Law Department.
+ParlaMint-NO_2001-10-09-upper.ana.ud12e103	I'm delighted to propose Odd Holten.
+ParlaMint-NO_2001-10-09-upper.ana.ud12e111	Odd Holten has been proposed to the Vice President of the Creation. Other proposals have not been made. A written vote shall be taken. The choice had the following result: The Creation Vice President was elected Odd Holten by 36 votes. Four ballots were blank.
+ParlaMint-NO_2001-10-09-upper.ana.ud12e124	The Secretary will then be elected, and the President will ask for proposals.
+ParlaMint-NO_2001-10-09-upper.ana.ud12e130	I suggest Ingvild Vaggen Malvik.
+ParlaMint-NO_2001-10-09-upper.ana.ud12e139	Ingvild Vaggen Malvik has been proposed to the Secretary of the Creation. Other proposals have not been made. It's going to be grazed in the usual way.
+ParlaMint-NO_2001-10-09-upper.ana.ud12e147	The Vice-President shall then be elected, and the President shall request a proposal.
+ParlaMint-NO_2001-10-09-upper.ana.ud12e153	I suggest Dagrun Eriksen.
+ParlaMint-NO_2001-10-09-upper.ana.ud12e158	Dagrun Eriksen has been proposed as Secretary of State. Other proposals have not been made. It's going to be grazed in the usual way.
+ParlaMint-NO_2001-10-09-upper.ana.ud12e166	The first and second vice-presidents shall then be elected. The President is asking for proposals for the first Vice-President.
+ParlaMint-NO_2001-10-09-upper.ana.ud12e171	I have the honour and pleasure to propose Thore Aksel Nistad.
+ParlaMint-NO_2001-10-09-upper.ana.ud12e179	Mr. Thore Aksel Nistad is the first Vice President. Other proposals have not been made. It's going to be grazed in the usual way.
+ParlaMint-NO_2001-10-09-upper.ana.ud12e187	The President is asking for proposals to the second vice-president.
+ParlaMint-NO_2001-10-09-upper.ana.ud12e194	I have the pleasure of proposing Elsa Scarbøvik.
+ParlaMint-NO_2001-10-09-upper.ana.ud12e202	Elsa Scarbøvik is proposed as the Second Vice President of the Lamentations. Other proposals have not been made. It's going to be grazed in the usual way.
+ParlaMint-NO_2001-10-09-upper.ana.ud12e210	Finally, the Secretary-General shall be elected, and the President shall ask for proposals.
+ParlaMint-NO_2001-10-09-upper.ana.ud12e216	I suggest Åslaug Haga.
+ParlaMint-NO_2001-10-09-upper.ana.ud12e224	Åslaug Haga is proposed as Deputy Secretary. Other proposals have not been made. It's going to be grazed in the usual way.
+ParlaMint-NO_2001-10-09-upper.ana.ud12e232	With this, the Creation has established itself, and a message will be sent to Stortinget and Odelstinget about this.

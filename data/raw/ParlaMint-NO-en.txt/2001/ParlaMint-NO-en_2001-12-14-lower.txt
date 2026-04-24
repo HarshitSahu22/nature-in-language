@@ -1,0 +1,8 @@
+ParlaMint-NO_2001-12-14-lower.ana.ud298e32	The President assumes that there will be voting almost immediately, and therefore asks the representatives to stay in the Chamber.
+ParlaMint-NO_2001-12-14-lower.ana.ud298e46	No one has asked for the floor. [[Votation, see below]]
+ParlaMint-NO_2001-12-14-lower.ana.ud298e62	No one has asked for the floor. So Odelstinget goes to voting. [[Footing, see next column]]
+ParlaMint-NO_2001-12-14-lower.ana.ud298e96	The Right Party, the Advance Party, the Christian People's Party and the Left will vote against.
+ParlaMint-NO_2001-12-14-lower.ana.ud298e109	Notification of Odelsting's decision will be sent to the Storage Department.
+ParlaMint-NO_2001-12-14-lower.ana.ud298e144	The Right Party, the Advance Party, the Christian People's Party, the Left Party and the Coastal Party will vote against.
+ParlaMint-NO_2001-12-14-lower.ana.ud298e156	Notification of Odelsting's decision will be sent to the Storage Department.
+ParlaMint-NO_2001-12-14-lower.ana.ud298e167	There is no record.

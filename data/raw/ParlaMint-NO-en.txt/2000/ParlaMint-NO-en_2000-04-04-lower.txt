@@ -1,0 +1,3 @@
+ParlaMint-NO_2000-04-04-lower.ana.ud2295e19	The representative, Carl I. Hagen, will make a private bill.
+ParlaMint-NO_2000-04-04-lower.ana.ud2295e22	On behalf of the representatives of Kari Økland, Oddvard Nilsen, Marit Tingelstad, Gunnar Kvassheim and myself, I would like to propose a law on the Investigation Commission to carry out a broad review of the investigation, planning, design and development of the new main airport for the East and Gardermoban.
+ParlaMint-NO_2000-04-04-lower.ana.ud2295e27	The legislative proposal will be dealt with in a regulatory manner.

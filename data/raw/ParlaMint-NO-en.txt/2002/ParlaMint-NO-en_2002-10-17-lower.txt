@@ -1,0 +1,3 @@
+ParlaMint-NO_2002-10-17-lower.ana.ud1689e25	The representative of Hill-Marta Solberg will present a private bill.
+ParlaMint-NO_2002-10-17-lower.ana.ud1689e28	On behalf of the representative Jens Stoltenberg and myself, I put forward a proposal on the law amending the law of 22 May 1998 No. 30 on the publication of the revenue of political parties. The proposal also includes support to the county and municipal organisations of political parties.
+ParlaMint-NO_2002-10-17-lower.ana.ud1689e33	The legislative proposal will be dealt with in a regulatory manner.

@@ -1,0 +1,24 @@
+ParlaMint-NO_2008-10-01-upper.ana.ud2520e28	If no one has anything to object to, I will comply with the request.
+ParlaMint-NO_2008-10-01-upper.ana.ud2520e38	The President-in-Office will ask the secretary of the previous team, Rolf Rikvam, to act as a secretary on a temporary basis.
+ParlaMint-NO_2008-10-01-upper.ana.ud2520e55	The President and Vice-President must be elected first. As regards the election of the President and Vice-President, Section 4 of the fifth paragraph of the Rules of Procedure of the Court of Justice, which was referred to during the Constitution of Storting. The President-in-Office of the Council is asking for proposals from the President of the Court of Justice.
+ParlaMint-NO_2008-10-01-upper.ana.ud2520e65	I allow myself to propose Inge Wohnning.
+ParlaMint-NO_2008-10-01-upper.ana.ud2520e73	No pay has been proposed to the President of the Lamentations. Other proposals are not available.
+ParlaMint-NO_2008-10-01-upper.ana.ud2520e82	The President then asks for proposals to the Vice-President of the Law Department.
+ParlaMint-NO_2008-10-01-upper.ana.ud2520e88	I suggest Ola T. Loan.
+ParlaMint-NO_2008-10-01-upper.ana.ud2520e96	Ola T. Loan has been proposed to the Vice-President of the Creation Department. Other proposals are not available.
+ParlaMint-NO_2008-10-01-upper.ana.ud2520e106	The Secretary of the Lactation will then be elected, and the President will ask for proposals.
+ParlaMint-NO_2008-10-01-upper.ana.ud2520e112	I suggest Rolf Rikvam. I thought he did a good job. [[Laughter]]
+ParlaMint-NO_2008-10-01-upper.ana.ud2520e119	Elections are not allowed! Rolf Rikvam is proposed as Secretary of the Creation. Other proposals are not available.
+ParlaMint-NO_2008-10-01-upper.ana.ud2520e130	The Vice-President shall then be elected, and the President shall request a proposal.
+ParlaMint-NO_2008-10-01-upper.ana.ud2520e136	I suggest Åse M. Schmidt.
+ParlaMint-NO_2008-10-01-upper.ana.ud2520e141	Åse M. Schmidt has been proposed as Secretary of State of the Creation. Other proposals are not available.
+ParlaMint-NO_2008-10-01-upper.ana.ud2520e150	The first and second vice-presidents shall then be elected. The President is asking for proposals for the first Vice-President.
+ParlaMint-NO_2008-10-01-upper.ana.ud2520e158	I'd like to suggest Finn Martin Vallersnes.
+ParlaMint-NO_2008-10-01-upper.ana.ud2520e167	Finn Martin Vallersnes is proposed as Lagginget's first Vice President. Other proposals are not available.
+ParlaMint-NO_2008-10-01-upper.ana.ud2520e176	The President then asks for proposals to the other vice-president.
+ParlaMint-NO_2008-10-01-upper.ana.ud2520e182	I am delighted to propose Leif Helge Kongshaug.
+ParlaMint-NO_2008-10-01-upper.ana.ud2520e189	Leif Helge Kongshaug is proposed as the Second Vice President of Lamentations. Other proposals are not available.
+ParlaMint-NO_2008-10-01-upper.ana.ud2520e198	Finally, the Secretary-General shall be elected, and the President shall ask for proposals.
+ParlaMint-NO_2008-10-01-upper.ana.ud2520e204	I am delighted to propose Tor-Arne Stroem.
+ParlaMint-NO_2008-10-01-upper.ana.ud2520e211	Mr. Tor-Arne Ström is proposed as Secretary of State. Other proposals are not available.
+ParlaMint-NO_2008-10-01-upper.ana.ud2520e220	With this, the Creation has established itself, and this will be sent to Stortinget and Odelstinget.

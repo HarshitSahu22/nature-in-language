@@ -1,0 +1,4 @@
+ParlaMint-NO_2001-03-06-lower.ana.ud713e39	No one has asked for the floor. [[Votation, see below]]
+ParlaMint-NO_2001-03-06-lower.ana.ud713e47	The Odelsting is supposed to wrestle.
+ParlaMint-NO_2001-03-06-lower.ana.ud713e395	The title of the law and the law will be the subject of a vote.
+ParlaMint-NO_2001-03-06-lower.ana.ud713e404	The legislative decision will be sent to the Layer.

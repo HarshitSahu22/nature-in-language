@@ -1,0 +1,5 @@
+ParlaMint-NO_2005-05-12-lower.ana.ud674e25	The representative of May Hansen will make a private bill.
+ParlaMint-NO_2005-05-12-lower.ana.ud674e28	On behalf of Siri Hall Arnøy and myself, I would like to propose amendments to Law No 4 July 1991. 47 on marriage, etc. [[Sex neutral marriage law]]
+ParlaMint-NO_2005-05-12-lower.ana.ud674e33	The representative, Jan Arild Ellingsen, will make a private bill.
+ParlaMint-NO_2005-05-12-lower.ana.ud674e36	On behalf of Mr Per Sandberg and myself, I am delighted to present amendments to Law No. 6 April 1984. 17 on remuneration in the event of ownership of immovable property.
+ParlaMint-NO_2005-05-12-lower.ana.ud674e41	The legislative proposals will be dealt with in a regulatory manner.

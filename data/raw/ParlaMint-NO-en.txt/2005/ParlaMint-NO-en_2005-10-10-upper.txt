@@ -1,0 +1,24 @@
+ParlaMint-NO_2005-10-10-upper.ana.ud1957e27	If no one has anything against it, I will follow the call.
+ParlaMint-NO_2005-10-10-upper.ana.ud1957e39	The President-in-Office will ask for seniority, Jon Lilletun, to act temporarily as a secretary.
+ParlaMint-NO_2005-10-10-upper.ana.ud1957e64	It must first be elected President and Vice President. In the case of the election of the President and Vice-President, Paragraphs 4 to 5 of the Rules of Procedure are replaced by the following: ‘In the first election of Presidents and Vice-Presidents, the votes shall be in the case of non-signatured banknotes. In subsequent elections in the same parliamentary term, the rules of § 44, first paragraph, points (d), first and second sentences apply. more than half of the votes cast. If none of the candidates reaches such a majority in the first election or in the case of free re-election, the two candidates to whom the highest number of votes has been cast shall be re-elected. [[(cf. § 45 para. (b)]] The President-in-Office of the Council is asking for proposals to the President of the Law Department.
+ParlaMint-NO_2005-10-10-upper.ana.ud1957e79	I have the pleasure of proposing Inge Wohnning.
+ParlaMint-NO_2005-10-10-upper.ana.ud1957e87	Inge Wohnning has been proposed elected President of Lamentations. - There are no other suggestions. It's going to be a written vote. The option had the following result: A total of 42 voices were issued. The President of Laginget was elected Inge Wohnung with 41 voices. 1 voice seat was blank.
+ParlaMint-NO_2005-10-10-upper.ana.ud1957e99	The President is asking for a proposal from the Vice President of the Lamentations.
+ParlaMint-NO_2005-10-10-upper.ana.ud1957e105	It's an honor to propose Jon Lilletun as Vice President.
+ParlaMint-NO_2005-10-10-upper.ana.ud1957e113	Jon Lilletun has been proposed as Lamentations Vice President. - There are no other suggestions. It's going to be a written vote. The option had the following result: A total of 42 voices were issued. The Vice-President of the Team was elected Jon Lilletun with 41 voices. 1 voice seat was blank.
+ParlaMint-NO_2005-10-10-upper.ana.ud1957e127	It will then be elected Secretary, and the President will ask for suggestions.
+ParlaMint-NO_2005-10-10-upper.ana.ud1957e133	I suggest Rolf Rikvam.
+ParlaMint-NO_2005-10-10-upper.ana.ud1957e142	Rolf Rikvam is proposed as Secretary of the Creation. - There are no other suggestions. It's getting wet in the usual way.
+ParlaMint-NO_2005-10-10-upper.ana.ud1957e157	The Secretary of State shall now be elected, and the President shall ask for proposals.
+ParlaMint-NO_2005-10-10-upper.ana.ud1957e163	I suggest Åse M. Schmidt.
+ParlaMint-NO_2005-10-10-upper.ana.ud1957e171	Åse M. Schmidt has been proposed as Secretary of State of the Creation. - There are no other suggestions. It's getting wet in the usual way.
+ParlaMint-NO_2005-10-10-upper.ana.ud1957e181	Then the Lagginge came to the choice of the first and second Vice President. The President is asking for proposals for the first Vice-President.
+ParlaMint-NO_2005-10-10-upper.ana.ud1957e188	I suggest Finn Martin Vallersnes.
+ParlaMint-NO_2005-10-10-upper.ana.ud1957e195	Mr. Finn Martin Vallersnes is the first Vice President. Other suggestions are not taken before. It's getting wet in the usual way.
+ParlaMint-NO_2005-10-10-upper.ana.ud1957e205	The President then asks for proposals to the other Vice-President.
+ParlaMint-NO_2005-10-10-upper.ana.ud1957e210	I am delighted to propose Leif Helge Kongshaug.
+ParlaMint-NO_2005-10-10-upper.ana.ud1957e217	Leif Helge Kongshaug is proposed as the other vice-president. - There are no other suggestions. It's getting wet in the usual way.
+ParlaMint-NO_2005-10-10-upper.ana.ud1957e227	Finally, the legislation shall select the Secretary of State. The President is asking for suggestions.
+ParlaMint-NO_2005-10-10-upper.ana.ud1957e233	I allow myself to propose Tor-Arne Stroem.
+ParlaMint-NO_2005-10-10-upper.ana.ud1957e241	Mr. Tor-Arne Ström is proposed as Secretary of State. - There are no other suggestions. It's getting wet in the usual way.
+ParlaMint-NO_2005-10-10-upper.ana.ud1957e251	With this, the Creation has established itself, and this will be sent to Stortinget and Odelstinget.

@@ -1,0 +1,8 @@
+ParlaMint-NO_1999-11-18-lower.ana.ud2553e40	No one has asked for the floor. [[Votation, see below]]
+ParlaMint-NO_1999-11-18-lower.ana.ud2553e54	No one has asked for the floor. [[Footing, see page 66]]
+ParlaMint-NO_1999-11-18-lower.ana.ud2553e62	The odelsting shall vote in case No. 1 and 2.
+ParlaMint-NO_1999-11-18-lower.ana.ud2553e386	The title of the law and the law will be the subject of a vote.
+ParlaMint-NO_1999-11-18-lower.ana.ud2553e394	: The Act will be sent to the Creation.
+ParlaMint-NO_1999-11-18-lower.ana.ud2553e431	The title of the law and the law will be the subject of a vote.
+ParlaMint-NO_1999-11-18-lower.ana.ud2553e439	The legislative decision will be sent to the Saving Decision.
+ParlaMint-NO_1999-11-18-lower.ana.ud2553e448	There is no record available.

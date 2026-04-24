@@ -1,0 +1,6 @@
+ParlaMint-NO_1998-10-22-lower.ana.ud2625e45	No one has asked for the floor. [[Votation, see below.]]
+ParlaMint-NO_1998-10-22-lower.ana.ud2625e59	No one has asked for the floor. [[Votation, see below.]]
+ParlaMint-NO_1998-10-22-lower.ana.ud2625e126	It is voted over the title of the law and the law as a whole.
+ParlaMint-NO_1998-10-22-lower.ana.ud2625e133	The Law Decision will be sent to the Lamentation.
+ParlaMint-NO_1998-10-22-lower.ana.ud2625e176	It is voted over the title of the law and the law as a whole.
+ParlaMint-NO_1998-10-22-lower.ana.ud2625e183	The Law Decision will be sent to the Lamentation.

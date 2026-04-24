@@ -1,0 +1,24 @@
+ParlaMint-NO_2005-10-10-lower.ana.ud1130e27	If no one has any objections, I will comply with the request.
+ParlaMint-NO_2005-10-10-lower.ana.ud1130e39	The President will ask the secretary of the last odelsting, Sigvald Opbebøen Hansen, to act temporarily as a secretary.
+ParlaMint-NO_2005-10-10-lower.ana.ud1130e48	Odelstinget shall elect Presidents and Secretaries. We follow the fifth and sixth paragraphs of Section 4 of the Rules of Procedure, which were referred to during the Constitution of Storting. The President is asking for proposals from the President of Odelstinget.
+ParlaMint-NO_2005-10-10-lower.ana.ud1130e56	I allow myself to propose Berit Brørby.
+ParlaMint-NO_2005-10-10-lower.ana.ud1130e63	Berit Brørby has been proposed to the President of Odelstinget. Other proposals are not available. A written vote will be taken. The choice had the following result: A total of 119 votes were cast. The President was elected Berit Brørby by 118 votes. One ballot was blank.
+ParlaMint-NO_2005-10-10-lower.ana.ud1130e78	The President is asking for a proposal from the Vice-President of the Odelstinget.
+ParlaMint-NO_2005-10-10-lower.ana.ud1130e85	I suggest Olav Gunnar Ballo.
+ParlaMint-NO_2005-10-10-lower.ana.ud1130e93	Olav Gunnar Ballo has been proposed as Odelstinget's vice president. Other proposals have not been made. A written vote will be taken. The choice had the following result: A total of 124 votes were cast. The Vice President was elected Olav Gunnar Ballo by 115 votes. 8 ballots were blank, and 1 vote was cast on one that was not proposed.
+ParlaMint-NO_2005-10-10-lower.ana.ud1130e108	The Secretary shall then be chosen. The President is asking for proposals.
+ParlaMint-NO_2005-10-10-lower.ana.ud1130e114	I allow myself to propose Asmund Kristoffersen.
+ParlaMint-NO_2005-10-10-lower.ana.ud1130e121	Asmund Kristoffersen is proposed as Odelstinget's secretary. Other proposals have not been made. It's going to be grazed in the usual way.
+ParlaMint-NO_2005-10-10-lower.ana.ud1130e136	The Secretary shall then be chosen. The President is asking for proposals.
+ParlaMint-NO_2005-10-10-lower.ana.ud1130e142	I allow myself to propose Henning Skumsvoll.
+ParlaMint-NO_2005-10-10-lower.ana.ud1130e149	Henning Skumsvoll is proposed as Odelstinget's Vice-Secretary. Other proposals have not been made. It's going to be grazed in the usual way.
+ParlaMint-NO_2005-10-10-lower.ana.ud1130e159	The first and second vice-presidents of the Odelstinget shall then be elected. The President is asking for proposals for the first Vice-President.
+ParlaMint-NO_2005-10-10-lower.ana.ud1130e164	I allow myself to propose Sigvald Uppøen Hansen.
+ParlaMint-NO_2005-10-10-lower.ana.ud1130e171	Sigvald Oppebøen Hansen is proposed as the first Vice-President. Other proposals are not available. It's going to be grazed in the usual way.
+ParlaMint-NO_2005-10-10-lower.ana.ud1130e181	The President then asks for proposals from the other vice-president.
+ParlaMint-NO_2005-10-10-lower.ana.ud1130e186	I suggest Rune J. Skjellaa.
+ParlaMint-NO_2005-10-10-lower.ana.ud1130e193	The Rune J. Skjelleraa is proposed as the second vice-president. Other proposals are not available. It's going to be grazed in the usual way.
+ParlaMint-NO_2005-10-10-lower.ana.ud1130e203	The Secretary of State shall then be elected. The President is asking for proposals.
+ParlaMint-NO_2005-10-10-lower.ana.ud1130e209	I allow myself to propose Torny Pedersen.
+ParlaMint-NO_2005-10-10-lower.ana.ud1130e216	Mr. Torny Pedersen is proposed as Secretary of State. Other proposals are not available. It's going to be grazed in the usual way.
+ParlaMint-NO_2005-10-10-lower.ana.ud1130e226	Thus Odelstinget has established itself, and this will be sent to Stortinget and Lagtinget.

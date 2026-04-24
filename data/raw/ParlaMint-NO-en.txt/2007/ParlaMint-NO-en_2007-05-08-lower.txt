@@ -1,0 +1,4 @@
+ParlaMint-NO_2007-05-08-lower.ana.ud965e38	The President is requesting a proposal from the temporary Vice-President of Odelstinget's Vice-President, Olav Gunnar Ballos.
+ParlaMint-NO_2007-05-08-lower.ana.ud965e41	I'm delighted to propose Ågot Valle.
+ParlaMint-NO_2007-05-08-lower.ana.ud965e46	Ågot Valle has been proposed as a temporary vice president. Other proposals are not available. The President assumes that it can be voted in the usual way.
+ParlaMint-NO_2007-05-08-lower.ana.ud965e138	Thus, today's map has been processed. Does anyone require a word under Section 37(a) of the Rules of Procedure before the sitting is cancelled? - The meeting's been cancelled.

@@ -1,0 +1,3 @@
+ParlaMint-NO_2008-04-08-upper.ana.ud1950e40	There is no record.
+ParlaMint-NO_2008-04-08-upper.ana.ud1950e54	No one has asked for the floor. The decision of the Odelsting is therefore endorsed by the Laging. The bill will be sent to the King in accordance with the Constitution.
+ParlaMint-NO_2008-04-08-upper.ana.ud1950e70	No one has asked for the floor. Thus, the Odelsting decision is endorsed by the Laging. The bill will be sent to the King in accordance with the Constitution.

@@ -1,0 +1,24 @@
+ParlaMint-NO_2004-10-01-lower.ana.ud302e27	If no one has anything to object to, I will comply with the request.
+ParlaMint-NO_2004-10-01-lower.ana.ud302e39	The President-in-Office of the Council will ask the Secretary of the last odelsting, Sigvald Opbebøen Hansen, to act temporarily as a secretary.
+ParlaMint-NO_2004-10-01-lower.ana.ud302e48	Odelstinget shall elect Presidents and Secretaries. The President and Vice-President must be elected first. We follow the fifth and sixth paragraphs of Section 4 of the Rules of Procedure, which were referred to during the Constitution of Storting. The President-in-Office of the Council is asking for proposals to the President of Odelstinget.
+ParlaMint-NO_2004-10-01-lower.ana.ud302e58	I'd like to suggest Ågot Valle.
+ParlaMint-NO_2004-10-01-lower.ana.ud302e65	Ågot Valle has been proposed as President of Odelstinget. Other proposals are not available.
+ParlaMint-NO_2004-10-01-lower.ana.ud302e75	The President then asks for proposals to the Vice-President of Odelsting.
+ParlaMint-NO_2004-10-01-lower.ana.ud302e81	I'll suggest Berit Brørby.
+ParlaMint-NO_2004-10-01-lower.ana.ud302e89	Berit Brørby is proposed as Odelsting's vice president. Other proposals are not available.
+ParlaMint-NO_2004-10-01-lower.ana.ud302e98	The Secretary of Odelstinget shall then be chosen. The President is asking for a proposal from the Secretary.
+ParlaMint-NO_2004-10-01-lower.ana.ud302e101	I will propose Sigvald Uppøen Hansen.
+ParlaMint-NO_2004-10-01-lower.ana.ud302e109	Sigvald Uppebøen Hansen is proposed as Odelstinget's secretary. Other proposals are not available.
+ParlaMint-NO_2004-10-01-lower.ana.ud302e118	The Secretary-General shall now be chosen. The President is asking for proposals.
+ParlaMint-NO_2004-10-01-lower.ana.ud302e124	I'd like to suggest Finn Martin Vallersnes.
+ParlaMint-NO_2004-10-01-lower.ana.ud302e132	Finn Martin Vallersnes is proposed as Secretary of State. Other proposals are not available.
+ParlaMint-NO_2004-10-01-lower.ana.ud302e142	The first and second vice-presidents shall then be elected. The President first asks for proposals to the President of the First Commodities.
+ParlaMint-NO_2004-10-01-lower.ana.ud302e150	I would like to suggest Geir-Ketil Hansen.
+ParlaMint-NO_2004-10-01-lower.ana.ud302e158	Mr. Geir-Ketil Hansen is the first Vice President. Other proposals are not available.
+ParlaMint-NO_2004-10-01-lower.ana.ud302e167	The President then asks for proposals to the other vice-president.
+ParlaMint-NO_2004-10-01-lower.ana.ud302e173	I'll suggest Asmund Kristoffersen.
+ParlaMint-NO_2004-10-01-lower.ana.ud302e181	Asmund Kristoffersen is proposed as the second vice-president. Other proposals are not available.
+ParlaMint-NO_2004-10-01-lower.ana.ud302e190	Finally, the Odel Sting shall elect the Secretary of State. The President is asking for proposals.
+ParlaMint-NO_2004-10-01-lower.ana.ud302e196	I suggest Ursula Evje.
+ParlaMint-NO_2004-10-01-lower.ana.ud302e205	Ursula Evje is proposed as Secretary of State. Other proposals are not available.
+ParlaMint-NO_2004-10-01-lower.ana.ud302e214	Thus Odelstinget has established itself, and this will be sent to Stortinget and Lagtinget.

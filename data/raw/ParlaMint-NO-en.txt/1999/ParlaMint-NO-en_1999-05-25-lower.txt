@@ -1,0 +1,4 @@
+ParlaMint-NO_1999-05-25-lower.ana.ud1756e39	No one has asked for the floor. [[Votation, see below.]]
+ParlaMint-NO_1999-05-25-lower.ana.ud1756e47	Odelstinget then goes to voting.
+ParlaMint-NO_1999-05-25-lower.ana.ud1756e130	The title of the law and the law will be the subject of a vote.
+ParlaMint-NO_1999-05-25-lower.ana.ud1756e138	The legislative decision will be sent to the Saving Decision.

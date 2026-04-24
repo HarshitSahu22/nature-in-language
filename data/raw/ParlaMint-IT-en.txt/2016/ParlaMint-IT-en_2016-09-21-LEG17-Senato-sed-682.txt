@@ -1,0 +1,21 @@
+ParlaMint-IT_2016-09-21-LEG17-Senato-sed-682.ana.u1	The sitting is open (9.30 a.m.). The Minutes shall be read. Mr SIBILIA, secretary, read the Minutes of the afternoon sitting of 15 September.
+ParlaMint-IT_2016-09-21-LEG17-Senato-sed-682.ana.u2	I'm asking to talk.
+ParlaMint-IT_2016-09-21-LEG17-Senato-sed-682.ana.u3	You have the right to do so.
+ParlaMint-IT_2016-09-21-LEG17-Senato-sed-682.ana.u4	CROSIUM (LN-Aut). Madam President, I would like to ask for the vote on the Minutes, subject to a quorum check.
+ParlaMint-IT_2016-09-21-LEG17-Senato-sed-682.ana.u5	I invite the Senator Secretary to check whether the request is supported by the prescribed number of senators, by electronic procedure. (The request is supported). I therefore call on the senators to make their presence known by electronic means. (Follows the quorum check.) The Senate is not a quorum. I therefore suspend the sitting until 9.55 p.m. (The sitting was suspended at 9.35 a.m. and resumed at 9.55 a.m.)
+ParlaMint-IT_2016-09-21-LEG17-Senato-sed-682.ana.u6	We shall now proceed to the vote on the Minutes.
+ParlaMint-IT_2016-09-21-LEG17-Senato-sed-682.ana.u7	I'm asking to talk.
+ParlaMint-IT_2016-09-21-LEG17-Senato-sed-682.ana.u8	You have the right to do so.
+ParlaMint-IT_2016-09-21-LEG17-Senato-sed-682.ana.u9	IN MAY (CoR). Madam President, I renew my request for a quorum check.
+ParlaMint-IT_2016-09-21-LEG17-Senato-sed-682.ana.u10	I invite the Senator Secretary to check whether the request is supported by the prescribed number of senators, by electronic procedure. (The request is supported). I therefore call on the senators to make their presence known by electronic means. (Follows the quorum check.) The Senate is not a quorum. I therefore suspend the sitting until 10.15 a.m. (The sitting was suspended at 9.55 a.m. and resumed at 10.15 a.m.)
+ParlaMint-IT_2016-09-21-LEG17-Senato-sed-682.ana.u11	We shall now proceed to the vote on the Minutes.
+ParlaMint-IT_2016-09-21-LEG17-Senato-sed-682.ana.u12	I'm asking to talk.
+ParlaMint-IT_2016-09-21-LEG17-Senato-sed-682.ana.u13	You have the right to do so.
+ParlaMint-IT_2016-09-21-LEG17-Senato-sed-682.ana.u14	GIARRUSSO (M5S). Madam President, I renew my request for a quorum check.
+ParlaMint-IT_2016-09-21-LEG17-Senato-sed-682.ana.u15	I invite the Senator Secretary to check whether the request is supported by the prescribed number of senators, by electronic procedure. (The request is supported). I therefore call on the senators to make their presence known by electronic means. (Follows the quorum check.) The Senate is not a quorum. I therefore suspend the sitting until 10.35 a.m. (The sitting was suspended at 10.15 a.m. and resumed at 10.35 a.m.)
+ParlaMint-IT_2016-09-21-LEG17-Senato-sed-682.ana.u16	We shall now proceed to the vote on the Minutes.
+ParlaMint-IT_2016-09-21-LEG17-Senato-sed-682.ana.u17	I'm asking to talk.
+ParlaMint-IT_2016-09-21-LEG17-Senato-sed-682.ana.u18	You have the right to do so.
+ParlaMint-IT_2016-09-21-LEG17-Senato-sed-682.ana.u19	GIARRUSSO (M5S). Madam President, I renew my request for a quorum check.
+ParlaMint-IT_2016-09-21-LEG17-Senato-sed-682.ana.u20	I invite the Senator Secretary to check whether the request is supported by the prescribed number of senators, by electronic procedure. (The request is supported). I therefore call on the senators to make their presence known by electronic means. (Follows the quorum check.) The Senate is not a quorum. Since the quorum was not present for the fourth time in a row, pursuant to Rule 108 (4) of the Rules of Procedure, I shall remove the sitting.
+ParlaMint-IT_2016-09-21-LEG17-Senato-sed-682.ana.u21	The motions, questions and questions received by the Presidency will be published in Annex B to today's report. I recall that the Senate will return to public session today, at 4.30 p.m., on the same agenda. The sitting was closed at 10:37 a.m.

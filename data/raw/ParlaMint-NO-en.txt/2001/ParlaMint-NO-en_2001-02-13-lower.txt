@@ -1,0 +1,4 @@
+ParlaMint-NO_2001-02-13-lower.ana.ud551e34	No one has asked for the floor. So Odelstinget can go to voting.
+ParlaMint-NO_2001-02-13-lower.ana.ud551e93	It is voted over the title of the law and the law as a whole.
+ParlaMint-NO_2001-02-13-lower.ana.ud551e101	The Law Decision will be sent to the Lamentation.
+ParlaMint-NO_2001-02-13-lower.ana.ud551e110	There is no record.
