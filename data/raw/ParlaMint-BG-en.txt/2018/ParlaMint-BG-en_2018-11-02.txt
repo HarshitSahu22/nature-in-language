@@ -1,0 +1,3 @@
+ParlaMint-BG_2018-11-02.u1	Colleagues, please register. Cancel registration. There's no quorum. Next registration in 15 minutes. 9:00 p.m.
+ParlaMint-BG_2018-11-02.u2	Colleagues, please register. Abort registration. In 20 minutes, the third, final attempt. 9:46 p.m.
+ParlaMint-BG_2018-11-02.u3	Colleagues, take your seats. The third is the last attempt to register. Abort registration. Colleagues, there will be no plenary today. The next plenary session is extraordinary, on Tuesday at 13:00 p.m. [[PHONE RINGING]]
