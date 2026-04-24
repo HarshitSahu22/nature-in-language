@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Python
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+env/
+venv/
+
+# Large embedding files
+data/embeddings/cc.en.300.vec
+data/embeddings/cc.en.300.vec.zip
+
+# Generated binary outputs (reproducible from notebooks)
+data/results/**/*.pkl
