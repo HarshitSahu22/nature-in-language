@@ -285,8 +285,11 @@ rm glove.840B.300d.zip
 cd ../..
 ```
 
-#### Princeton ALC transform matrix (352 KB — already in repo)
-The matrix is committed to the repository at `data/alc_transform_glove840B.bin`. No action needed.
+#### Princeton ALC transform matrix (352 KB download)
+```bash
+curl -L -o data/alc_transform_glove840B.bin \
+  https://github.com/NLPrinceton/ALaCarte/raw/master/transform/840B.300d.bin
+```
 
 ### 5. Run the analysis
 ```bash
