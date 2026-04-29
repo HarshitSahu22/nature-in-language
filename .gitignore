@@ -9,8 +9,6 @@ env/
 venv/
 
 # Large embedding files — download instructions in README
-data/embeddings/cc.en.300.vec
-data/embeddings/cc.en.300.vec.zip
 data/embeddings/glove.840B.300d.txt
 data/embeddings/glove.840B.300d.zip
 
