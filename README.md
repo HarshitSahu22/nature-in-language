@@ -15,7 +15,8 @@ We then go one step further and ask whether the answer differs depending on **wh
 ---
 
 ## The Data We Are Working With
-We use **word2vec** and other embedding models (e.g., FastText, BERT) on data provided by the [ParlaMint corpus](https://www.clarin.eu/parlamint). It is a collection of official parliamentary speeches from countries across Europe, translated into English. For each country the data is organised as follows:
+
+We use the [ParlaMint corpus](https://www.clarin.eu/parlamint) — a collection of official parliamentary speeches from countries across Europe, translated into English. For each country the data is organised as follows:
 
 | What | What It Contains |
 |---|---|
@@ -26,6 +27,41 @@ We use **word2vec** and other embedding models (e.g., FastText, BERT) on data pr
 The critical link between the two file types is a shared **unique ID** — for example `ParlaMint-AT_1996-01-15-..._d7e826`. This ID appears at the start of each speech line in the transcript AND as a column in the metadata file, allowing us to know exactly who said what.
 
 > 📂 **File structure:** Each country has one folder. Inside are year subfolders (1996, 1997 …). Inside each year are pairs of files: one transcript (.txt) and one metadata (.tsv) per parliamentary session.
+
+---
+
+## Embedding Methodology — À la Carte (ALC)
+
+This project implements the **À la Carte (ALC) embedding method** from [Khodak et al. (2018)](http://aclweb.org/anthology/P18-1002), which allows us to compute a context-sensitive embedding for any word using only a pre-trained source embedding and a linear transformation matrix.
+
+### Source Embedding: GloVe 840B.300d
+
+We use **GloVe 840B.300d** (Pennington et al., 2014) as our source embedding — the same embedding used in the original ALC paper. It was trained on 840 billion tokens from the Common Crawl and contains vectors for ~2.2 million words, each represented as a 300-dimensional vector.
+
+| Property | Detail |
+|---|---|
+| Model | GloVe Common Crawl 840B |
+| Vocabulary | ~2.2 million words |
+| Dimensions | 300 |
+| File | `data/embeddings/glove.840B.300d.txt` (~5.3 GB) |
+| Source | [Stanford NLP GloVe page](https://nlp.stanford.edu/projects/glove/) |
+
+### Why GloVe over FastText?
+
+The ALC paper (Khodak et al., 2018) was developed and validated specifically with GloVe embeddings. Using GloVe ensures methodological alignment with the paper. Additionally, the Princeton NLP group provides a **pre-trained transform matrix** specifically for GloVe 840B.300d, eliminating the need to learn the matrix from scratch (which requires substantial computation).
+
+### The ALC Transform Matrix
+
+The transform matrix **A** is a 300×300 matrix that maps a raw context-word average into the correct position in the GloVe embedding space. We use the **pre-trained matrix provided by NLPrinceton/ALaCarte**, trained on the full GloVe vocabulary using the Common Crawl corpus.
+
+| Property | Detail |
+|---|---|
+| Shape | (300, 300) float32 |
+| File | `data/alc_transform_glove840B.bin` (352 KB) |
+| Source | [NLPrinceton/ALaCarte GitHub repository](https://github.com/NLPrinceton/ALaCarte/tree/master/transform) |
+| Format | Raw binary (numpy `fromfile`, float32) |
+
+Because we use the pre-trained Princeton matrix, we **do not need to run `learn_alc_transform.py`**. This script is retained in the repository for reference only.
 
 ---
 
@@ -45,44 +81,52 @@ For every utterance, we scan through the words. Whenever we find one of our ten 
 
 `nature` `climate` `environment` `land` `forest` `forests` `biodiversity` `restoration` `reforestation` `ecology`
 
-…we grab the **five words immediately before it** and the **five words immediately after it**. This 10-word window captures the conversational context of that mention.
+…we grab the **10 words immediately before it** and the **10 words immediately after it**. This 20-word window captures the conversational context of that mention. A window of 10 words each side matches the setting used to train the Princeton ALC transform matrix and is the default specified in the ALC paper.
 
 **Example:**
 
 ```
-Full sentence : "the environment is important for land restoration today"
-Nature word   : environment (position 2)
-Context window: [the] [is] [important] [for] [land]
-                ← 1 word before + 4 words after (excludes "environment" itself)
+Full sentence : "the urgent need to protect the environment is important for land restoration today"
+Nature word   : environment (position 6)
+Context window: [the, urgent, need, to, protect] [is, important, for, land, restoration]
+                ← 5 words before (up to 10)     + 5 words after (up to 10)
 ```
 
-### Step 5 — Convert words to numbers using an AI word model
-We use a pre-trained AI model called **FastText**, which has learned from billions of text documents. It represents every word as a list of 300 numbers (called a **vector**) that captures its meaning. Words used in similar contexts end up with similar vectors — so "forest" and "woodland" would be close together, while "forest" and "economy" would be far apart.
+### Step 5 — Convert words to numbers using GloVe
+We use GloVe 840B.300d to represent every context word as a 300-dimensional vector. Words used in similar contexts end up with similar vectors — so "forest" and "woodland" would be close together, while "forest" and "economy" would be far apart.
 
-### Step 6 — Compute the "average meaning" of each nature word per group per year
-For a given group (e.g. Female speakers) and year (e.g. 2005), we take all the context windows collected around "climate". We convert each context word to its FastText vector, average them to get one vector per window, then average all those vectors together. The result is a single number-list that represents **how "climate" was talked about by Female speakers in 2005**.
+### Step 6 — Compute the ALC embedding for each nature word per group per year
+For a given group (e.g. Female speakers) and year (e.g. 2005), we take all the context windows collected around "climate":
+
+1. For each occurrence, **sum** the GloVe vectors of all context words in the window
+2. Average those summed vectors across all occurrences → one raw context vector
+3. Multiply by the transform matrix **A**: `alc_embedding = raw_context_avg @ A.T`
+
+The sum (not mean) within each window matches the convention used when training the Princeton matrix.
 
 ```
 All context windows for "climate" (Female, 2005)
         ↓
-Convert each word to a 300-number vector
+For each window: sum the GloVe vectors of the context words → one vector per window
         ↓
-Average the vectors in each window → one vector per window
+Average all window vectors → one raw context vector
         ↓
-Average all window vectors → one final vector
+Multiply by Princeton transform matrix A → corrected ALC embedding
         ↓
 This is the ALC embedding: "how Female speakers used climate in 2005"
 ```
 
 ### Step 7 — Measure similarity to importance words
-We also get FastText vectors for four importance words:
+We also get GloVe vectors (static, not ALC-transformed) for four importance words:
 
 `important` `importance` `significant` `meaningful`
 
-We then measure the **mathematical angle** between the nature word's context vector and each importance word's vector.
+We then measure the **cosine similarity** between the nature word's ALC embedding and each importance word's static GloVe vector.
 
 - Score **close to 1.0** → the nature word was used in contexts very similar to how importance words are used — suggesting the topic was framed as urgent and critical
 - Score **close to 0** → the contexts were unrelated — the topic was discussed in neutral or routine language
+
+> **Why use static GloVe vectors for importance words?** Because the ALC transform maps context averages into the same space as the original GloVe vectors. Comparing an ALC embedding to a static GloVe vector is the intended use of the method — both live in the same vector space.
 
 ### Step 8 — Save results and repeat for every group
 We save a table for each group and each year showing the similarity scores — **10 nature words × 4 importance words = 40 scores per table**. We do this separately for every group within every dimension, so you can compare Male vs Female, or Left vs Right, side by side.
@@ -133,12 +177,17 @@ The results are saved in a folder structure that mirrors the four dimensions. Fo
 
 ```
 results/
+├── transcript/
+│   └── FI/
+│       ├── 1996_nature_vs_importance.csv
+│       ├── 1997_nature_vs_importance.csv
+│       ├── contexts_by_term_year.csv
+│       └── alc_embeddings.pkl
 └── meta_transcript/
     └── FI/
         ├── gender/
         │   ├── Male/
         │   │   ├── 1996_nature_vs_importance.csv
-        │   │   ├── 1997_nature_vs_importance.csv
         │   │   ├── contexts_by_term_year.csv
         │   │   └── alc_embeddings.pkl
         │   └── Female/
@@ -180,10 +229,11 @@ Each group folder also contains two additional files for researchers who want to
 
 | Term | What It Means in Plain Language |
 |---|---|
-| **FastText** | An AI model trained on billions of words. It has learned which words tend to appear together, and uses that knowledge to represent words as numbers. |
+| **GloVe 840B.300d** | A pre-trained word embedding model trained on 840 billion tokens from the web. It represents every word as a list of 300 numbers. Used in the original ALC paper. |
 | **Word vector** | A list of 300 numbers that represents a word's meaning. Words with similar meanings have similar vectors. |
-| **Context window** | The 5 words before and 5 words after a target word. Captures the conversational environment of a word. |
-| **ALC embedding** | The average vector of all context windows for a word in a given year and group. Represents "how this word was used". |
+| **Context window** | The 10 words before and 10 words after a target word (20 words total). Captures the conversational environment of a word. This size matches the ALC paper and the pre-trained transform matrix. |
+| **ALC embedding** | The average of context-word sum vectors, multiplied by the Princeton transform matrix **A**. Maps "how a word was used" into the GloVe vector space. (Khodak et al., 2018) |
+| **Transform matrix A** | A 300×300 matrix pre-trained by Princeton NLP on the full GloVe vocabulary. Corrects for frequency bias and aligns context averages with the source embedding space. |
 | **Cosine similarity** | A score from 0 to 1 measuring how similar two word vectors are. 1 = identical usage pattern, 0 = completely unrelated. |
 | **Utterance** | A single speech or statement by one speaker in one session of parliament. |
 | **Dimension** | One of the four ways we split speakers: Gender, Alignment, Ideology, or Generation. |
@@ -197,10 +247,7 @@ Each group folder also contains two additional files for researchers who want to
 - **Party ideology labels come from the ParlaMint dataset.** They reflect how parties positioned themselves at the time and may not capture all political nuance.
 - **Some speakers appear across many years.** Their demographic attributes (e.g. party alignment) are taken from their first appearance in the dataset and assumed stable over time.
 - **Nature terms and importance terms were chosen by the research team.** Different word choices would produce different results.
-
----
-
-*This document is a plain-language companion to the technical code. For questions about the methodology, refer to the notebook files `natureImportance_byDimension.ipynb` and `metaData.ipynb`.*
+- **The transform matrix was trained on general web text (Common Crawl).** It is not specific to parliamentary language, which may affect the precision of the ALC embeddings.
 
 ---
 
@@ -225,148 +272,111 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-> ⚠️ Note: This project ignores `.env`, `env/`, `.ipynb_checkpoints/`, and `.DS_Store` files to keep the repository clean.
+### 4. Download required data files
+
+The two large data files are not stored in the repository. Download them manually:
+
+#### GloVe 840B.300d embeddings (~2 GB download, ~5.3 GB extracted)
+```bash
+cd data/embeddings
+curl -LO https://nlp.stanford.edu/data/glove.840B.300d.zip
+unzip glove.840B.300d.zip
+rm glove.840B.300d.zip
+cd ../..
+```
+
+#### Princeton ALC transform matrix (352 KB — already in repo)
+The matrix is committed to the repository at `data/alc_transform_glove840B.bin`. No action needed.
+
+### 5. Run the analysis
+```bash
+python3 run_all_countries.py
+```
+
+> ⚠️ Loading GloVe 840B takes approximately 5–10 minutes and ~2.6 GB of RAM. Close other memory-intensive applications before running. The per-country analysis is processed sequentially and is much lighter.
 
 ---
 
 ## 📁 Folder Descriptions
 
 ### **`/data/`**
-Main folder containing pretrained embeddings and all data outputs.
+Main folder containing embeddings, the transform matrix, raw corpora, and all output results.
 
-#### **`/data/results/`**
-Contains the data for different analyses:
+#### **`/data/embeddings/glove.840B.300d.txt`**
+Pre-trained GloVe word embeddings (840B token Common Crawl, 300 dimensions). This is the source embedding used in all ALC computations. ~2.2 million words, ~5.3 GB.
 
-##### **`/data/results/transcript`**
-Analysis of the change in the language of the speeches for a country over the years
-
-##### **`/data/results/metadata`**
-Counting of various demographics of the speakers
-
-##### **`/data/results/meta_transcript`**
-After analysing the speeches country-wise and year-wise and counting the speakers across different classifications, we go a step further and analyse the behaviour within these demographics.
+#### **`/data/alc_transform_glove840B.bin`**
+The pre-trained ALC transform matrix (300×300, float32 binary). Provided by [NLPrinceton/ALaCarte](https://github.com/NLPrinceton/ALaCarte). Applied as `raw_context_avg @ A.T` to produce ALC embeddings.
 
 #### **`/data/raw/`**
-This folder contains the **machine-translated English versions** of the respective country's ParlaMint parliamentary proceedings, organised by year.
+Machine-translated English versions of each country's ParlaMint parliamentary proceedings, organised by country and year.
 
-> 💡 **Pickle** is used for Python-native objects like nested lists and arrays, allowing faster reloads and avoiding format errors.
+#### **`/data/results/transcript/`**
+Country-level analysis results (all speakers combined, split by year only).
+
+#### **`/data/results/meta_transcript/`**
+Demographic-split analysis results (broken down by gender, alignment, ideology, and generation within each country and year).
 
 ---
 
 ## 📄 File Descriptions
 
-### **`/nature_context.csv`**
-Stores all context windows around the word **"nature"** across speeches and years.
+### **`run_all_countries.py`**
+The main analysis script. Loops over all 29+ ParlaMint country corpora and runs two analyses for each:
+1. **Country-level transcript analysis** — all speakers combined, by year
+2. **Demographic-split analysis** — broken down by gender, alignment, ideology, and generation
 
-**Each row includes:**
-- Year of the speech  
-- Filename of the source  
-- Context snippet (±5 words around *"nature"*)  
+**Key configuration (top of file):**
+```python
+EMBED_PATH  = "data/embeddings/glove.840B.300d.txt"   # GloVe source embedding
+MATRIX_PATH = "data/alc_transform_glove840B.bin"       # Princeton pre-trained matrix
+WINDOW      = 10                                        # Context words each side (matches ALC paper)
+```
 
-**Purpose:**  
-Provides raw data to compute the semantic embedding of *"nature"* over time and across parliaments.
+**For each nature term per group per year, it:**
+- Extracts ±10 word context windows from speeches
+- Sums GloVe vectors within each window
+- Averages across all occurrences
+- Applies the transform matrix A
+- Computes cosine similarity against 4 importance terms
+- Saves a 10×4 CSV table
 
 ---
 
-### **`/process_parlamint.ipynb`**
-Your **main Python notebook** that executes the entire analysis pipeline.
+### **`metaData.ipynb`**
+Exploratory notebook for understanding the ParlaMint metadata structure — speaker counts, demographic breakdowns, and coverage across countries and years.
 
-**What it does:**
-- Loads and cleans speech data  
-- Extracts context windows around target keywords  
-- Computes ALC vectors using FastText  
-- Calculates cosine similarity with reference terms  
-- Saves all results and intermediate data for re-use  
+---
 
-**Purpose:**  
-This notebook is your main control center. Reuse or adapt it for new countries, keywords, or embedding models.
+### **`/data/results/transcript/{country}/contexts_by_term_year.csv`**
+Raw context windows (±10 words) around each nature term, organised by term and year. Useful for qualitative inspection of what language surrounds each term.
 
+---
+
+### **`/data/results/transcript/{country}/alc_embeddings.pkl`**
+Computed ALC embeddings for each nature term by year.
+**Format:** `{term: {year: numpy array (300,)}}`
+
+---
+
+### **`/data/results/transcript/{country}/{year}_nature_vs_importance.csv`**
+The primary output — cosine similarity scores between each nature term's ALC embedding and each importance term's static GloVe vector.
+**Format:** 10 rows (nature terms) × 4 columns (importance terms)
 
 ---
 
 ### **`/requirements.txt`**
-Lists all the Python packages required to run the project.
-
-**Each line includes:**
-- Package name  
-- Pinned version (ensures reproducibility)
-
-**Example:**
-```text
-pandas==2.2.1
-numpy==1.26.4
-```
-
-**Purpose:**  
-Allows anyone to recreate the exact Python environment by running:
-```bash
-pip install -r requirements.txt
-```
-
-> 🔄 Update this file by running `pip freeze > requirements.txt` after installing new packages.
+Lists all Python packages required to run the project with pinned versions for reproducibility.
 
 ---
 
-### **`/data/raw/ParlaMint-{FR}-en.txt/`**
-This folder contains the **machine-translated English versions** of the respective country's ParlaMint parliamentary proceedings, organised by year.
+## References
 
-Each subfolder of a country (e.g., `2017/`) includes:
-- **`.txt` files**: the actual **speech content** in English for each session.
-- **`-meta.tsv` files**: associated **metadata** for each session, such as speaker ID, party affiliation, date, and session details.
-
-**Example filenames:**
-- `ParlaMint-FR-en_2017-07-03-O1001.txt` → English speech file  
-- `ParlaMint-FR-en_2017-07-03-O1001-meta.tsv` → Metadata for the same session  
-
-**Purpose:**  
-These `.txt` files serve as the **raw input** for the pipeline — they are cleaned, parsed, and tokenized to extract context windows and compute yearly embeddings for key climate-related terms.
+- Khodak, M., Saunshi, N., Liang, Y., Ma, T., Stewart, B., & Arora, S. (2018). *A La Carte Embedding: Cheap but Effective Induction of Semantic Feature Vectors.* Proceedings of ACL 2018. http://aclweb.org/anthology/P18-1002
+- Pennington, J., Socher, R., & Manning, C. D. (2014). *GloVe: Global Vectors for Word Representation.* EMNLP 2014.
+- NLPrinceton/ALaCarte GitHub repository: https://github.com/NLPrinceton/ALaCarte
+- ParlaMint corpus: https://www.clarin.eu/parlamint
 
 ---
 
-### **`/data/results/transcript/{country_name}/contexts_by_term_year.csv`**
-Extracted ±5 word **context windows** around the keyword (e.g., *"nature"*) for each speech.
-
-**Each row includes:**
-- Year  
-- Target work  
-- Context snippet  
-
-**Purpose:**  
-Captures how the target word is used in discourse and sets up the data for ALC embedding.
-
----
-
-### **`/data/results/{country_name}/alc_embeddings.pkl`**
-Year-wise **ALC embeddings** for the target word.
-
-**How it works:**
-- Context windows are embedded using FastText  
-- Each window's context vectors are averaged  
-- All such vectors in a year are then averaged → 1 ALC vector per year  
-
-**Format:** Python dictionary `{year: 300-dim NumPy vector}` saved as `.pkl`
-
-**Purpose:**  
-Represents how the **meaning** of a word shifts over the years in political discussions.
-
----
-
-### **`/data/results/transcript/{country_name}/{year}_nature_vs_importance.csv`**
-Records **cosine similarity** between yearly ALC embeddings and fixed reference terms (e.g., *"importance"*, *"emergency"*).
-
-**Purpose:**  
-Quantifies semantic closeness over time — helps understand shifts in **framing** of the word (e.g., does *"nature"* become more associated with *"emergency"*?).
-
----
-
-### **`/data/embeddings/cc.en.300.vec`**
-Pretrained **FastText English word embeddings**.
-
-**Contents:**
-- ~2 million words  
-- 300-dimensional vectors per word  
-
-**Format:** `.vec` file (text-based, ~6 GB)
-
-**Purpose:**  
-Used to embed context words numerically for computing ALC and cosine similarity.
+*For questions about the methodology, refer to the script `run_all_countries.py` and the paper cited above.*

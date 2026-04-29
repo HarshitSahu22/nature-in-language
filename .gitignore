@@ -8,9 +8,14 @@ __pycache__/
 env/
 venv/
 
-# Large embedding files
+# Large embedding files — download instructions in README
 data/embeddings/cc.en.300.vec
 data/embeddings/cc.en.300.vec.zip
+data/embeddings/glove.840B.300d.txt
+data/embeddings/glove.840B.300d.zip
 
-# Generated binary outputs (reproducible from notebooks)
+# Princeton ALC transform matrix — download instructions in README
+data/alc_transform_glove840B.bin
+
+# Generated outputs (reproducible by running run_all_countries.py)
 data/results/**/*.pkl
