@@ -14,45 +14,50 @@ This folder holds all computed outputs from the **meta-dimension averaging pipel
 
 ## Folder Structure
 
-```
+```text
 analysis/
 │
 ├── README.md                          ← this file
 │
 ├── meta_averages_by_group.xlsx        ← master Excel workbook (11 sheets)
 │
-├── Heatmaps/
+├── Heatmap/
 │    ├── heatmap_alignment.png              ┐
 │    ├── heatmap_gender.png                 │  Core heatmaps
 │    ├── heatmap_generation.png             │  (side-by-side groups per dimension)
 │    ├── heatmap_ideology.png               ┘
 │
-├── LineGraphs/
+├── Linegraph/
 │    ├── linegraph_alignment.png            ┐
 │    ├── linegraph_gender.png               │  Core line graphs
 │    ├── linegraph_generation.png           │  (one line per country, per group)
 │    ├── linegraph_ideology.png             ┘
 │
-├── low_complexity/                    ← Analyses 1–3
-│   ├── loess_divergence_alignment.png
-│   ├── loess_divergence_gender.png
-│   ├── loess_divergence_generation.png
-│   ├── loess_divergence_ideology.png
-│   ├── gap_series_all_dimensions.png
+├── gap_series_all_dimensions.png      ← Analysis 2
 │
-└── medium_complexity/                 ← Analyses 4–6
-    ├── rolling_corr_alignment.png
-    ├── rolling_corr_gender.png
-    ├── rolling_corr_generation.png
-    ├── rolling_corr_ideology.png
-    ├── variance_decomp_alignment.png
-    ├── variance_decomp_gender.png
-    ├── variance_decomp_generation.png
-    ├── variance_decomp_ideology.png
-    ├── rank_stability_alignment.png
-    ├── rank_stability_gender.png
-    ├── rank_stability_generation.png
-    └── rank_stability_ideology.png
+├── Loess Divergence/                  ← Analyses 1 & 3
+│    ├── loess_divergence_alignment.png
+│    ├── loess_divergence_gender.png
+│    ├── loess_divergence_generation.png
+│    └── loess_divergence_ideology.png
+│
+├── Rank Stability/                    ← Analysis 7
+│    ├── rank_stability_alignment.png
+│    ├── rank_stability_gender.png
+│    ├── rank_stability_generation.png
+│    └── rank_stability_ideology.png
+│
+├── Rooling Corr/                      ← Analysis 5
+│    ├── rolling_corr_alignment.png
+│    ├── rolling_corr_gender.png
+│    ├── rolling_corr_generation.png
+│    └── rolling_corr_ideology.png
+│
+└── Variance Decomp/                   ← Analysis 6
+     ├── variance_decomp_alignment.png
+     ├── variance_decomp_gender.png
+     ├── variance_decomp_generation.png
+     └── variance_decomp_ideology.png
 ```
 
 ---
@@ -87,7 +92,7 @@ analysis/
 
 ## Core Visualisations
 
-### Heatmaps (`heatmap_{dimension}.png`)
+### Heatmaps (`Heatmap/heatmap_{dimension}.png`)
 
 - Groups in the dimension shown **side by side** for direct comparison
 - **Rows** = countries, **Columns** = years
@@ -95,7 +100,7 @@ analysis/
 - **White cells** = no data for that country-year
 - Shared colour scale within each dimension so panels are directly comparable
 
-### Line Graphs (`linegraph_{dimension}.png`)
+### Line Graphs (`Linegraph/linegraph_{dimension}.png`)
 
 - Groups shown **side by side**
 - **One line per country**, x-axis = year, y-axis = mean similarity score
@@ -104,9 +109,9 @@ analysis/
 
 ---
 
-## Low Complexity Analyses (`low_complexity/`)
+## Low Complexity Analyses
 
-### Analysis 1 & 3 — LOESS Trends + Divergence (`loess_divergence_{dim}.png`)
+### Analysis 1 & 3 — LOESS Trends + Divergence (`Loess Divergence/loess_divergence_{dim}.png`)
 
 Two-row figure per dimension:
 
@@ -128,9 +133,9 @@ Four-panel figure. Each panel shows `Score(Group A) − Score(Group B)` per coun
 - **Sign flips** (line crossing zero) = the leading group switched
 - Blue shaded band = cross-country mean gap
 
-## Medium Complexity Analyses (`medium_complexity/`)
+## Medium Complexity Analyses
 
-### Analysis 5 — Rolling 3-Year Correlation (`rolling_corr_{dim}.png`)
+### Analysis 5 — Rolling 3-Year Correlation (`Rooling Corr/rolling_corr_{dim}.png`)
 
 **Question:** Do the two groups in a dimension move in sync, or are they diverging?
 
@@ -138,7 +143,7 @@ Four-panel figure. Each panel shows `Score(Group A) − Score(Group B)` per coun
 - **Right panel (line):** Cross-country mean correlation over time with shaded band showing the range across all countries
 - Reference lines at r = 0 (no relationship), r = +0.5 (moderate sync), r = −0.5 (moderate divergence)
 
-### Analysis 6 — Variance Decomposition (`variance_decomp_{dim}.png`)
+### Analysis 6 — Variance Decomposition (`Variance Decomp/variance_decomp_{dim}.png`)
 
 **Question:** Is variation in scores driven more by *which country* a politician is from, or *which group* they belong to?
 
@@ -147,7 +152,7 @@ Four-panel figure. Each panel shows `Score(Group A) − Score(Group B)` per coun
 - **Left panel:** Raw variance values over time
 - **Right panel:** Stacked area chart showing percentage share. If the coral band grows → groups are polarising. If blue dominates → geography explains more than demographics.
 
-### Analysis 7 — Rank Stability / Bump Charts (`rank_stability_{dim}.png`)
+### Analysis 7 — Rank Stability / Bump Charts (`Rank Stability/rank_stability_{dim}.png`)
 
 **Question:** Does the same group consistently frame nature as most important, or does leadership change?
 
